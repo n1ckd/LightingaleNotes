@@ -1,0 +1,2 @@
+Mars has spent his time in the [[Places/Forests/Themar Wilds]] and has gone as far south as he has ever been now inline with the mountain range that borders the south side of the wilds. Mars has been tracking a small dragon that has recently changed color from red to orange it seems to have more of a fairy wing than dragon wing. The beast is small enough that it would be able to fit inside of Mars's cupped hands. It originates from the Fae Realm.
+![[Pasted image 20231103222737.png]]

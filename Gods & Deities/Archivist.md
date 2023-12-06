@@ -1,0 +1,1 @@
+The archivist is a deity of stories according to Ari. They are a lesser known deity and is not extremely popular it falls into a similar line as what Albrecht would know in their home space. they are True Neutral.

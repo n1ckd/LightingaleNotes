@@ -1,0 +1,6 @@
+- name: [[Mars]]
+- race: Firbolg
+- class: Druid
+- subclass: Circle of Spores
+- age: 73
+- height: 8ft

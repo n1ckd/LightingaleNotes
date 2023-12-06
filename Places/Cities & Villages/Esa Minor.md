@@ -1,0 +1,1 @@
+Esa Minor is a small village in the [[Places/Forests/Themar Wilds]] that has a mainly poorer half elf population 

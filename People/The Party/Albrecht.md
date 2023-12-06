@@ -1,0 +1,1 @@
+went to school for monster hunting? was encouraged to use beast mode and has since tried to move past monster hunting.

@@ -1,0 +1,1 @@
+Wintercall is a large town that mars has not yet been to or engaged with, It is the largest town mars knows of in the [[Places/Forests/Themar Wilds]]. It is snowing and 

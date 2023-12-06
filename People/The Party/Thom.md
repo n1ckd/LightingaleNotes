@@ -1,0 +1,9 @@
+- pronouns: she / they
+- name: [[Thom]]
+- race: Human
+- class: Wizard
+- subclass:
+- age: 5ft 7in
+- height:
+- scrawny , dark eyes with bags under them, eyes with a fear about them, permeant ink stains on their hands. 
+- languages: celestial, common
