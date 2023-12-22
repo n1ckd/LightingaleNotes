@@ -1,0 +1,1 @@
+a broken and cracked doorframe of white stone connected to columns by short walls overgrown with ancient plants - the windows are slits that are narrow and the main entrance seems to be the only way in or out. The [[Handler Gang]] held out inside specifically those led by the member known as [[Tigerclaw]]

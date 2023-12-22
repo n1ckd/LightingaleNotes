@@ -19,7 +19,7 @@ Our first Survival check showed us tracks of
 - two sets of tracks with large paws without claws
 - two sets of reptilian like claws with a large slide - the sliding is where the beast comes out of the ground and slides back under the feet have three toes and have claws but whatever the beast is its big.
 #### merchant encounter
-During our tracking we failed to stealth past a group of two elven merchant, a horse drawn carriage - clay recognizes them as part of the [[merchants guild]] who reported the presence of bandits shaking people down to the south. One of the bandits has a tiger.
+During our tracking we failed to stealth past a group of two elven merchant, a horse drawn carriage - clay recognizes them as part of the [[Merchants Guild]] who reported the presence of bandits shaking people down to the south. One of the bandits has a tiger.
 #### Tracking
 The first day we identify and track the displacer beasts,
 The second day we attempt to identify the sliding tracks and follow them.

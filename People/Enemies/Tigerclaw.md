@@ -1,0 +1,1 @@
+They appear to be at least partly elven and have a large scar across their face. The party took them down 

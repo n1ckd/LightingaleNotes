@@ -1,0 +1,1 @@
+the guilds insignia is a kraken wrapping its tentacles around a bag of items 

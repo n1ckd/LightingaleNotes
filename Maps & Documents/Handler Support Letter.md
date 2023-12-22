@@ -1,0 +1,5 @@
+[Handler_Support_Letter.pdf]
+![[Pasted image 20231216001756.png]]
+We know that this letter speaks of the west but there is no known war between the beacons - reading this does not seem to imply west vs east beacon but something else. found with [[map with handwritten notes]]
+This letter implies that the elven council is the founding tribes of the elven wanderers they used to be nomadic peoples that settled the city of [[Zul]]. [[The Elven Council]] is still the families of those wandering tribes that founded the city. 
+We also found out that the reason they may be upset is because they are known to be a very hands off government (Yuli comes from a town that is under the purview of the elven council) they have no military under their control instead having every town in the east run their own militia. This problem would then be thought to be outside their influence and they would need an increase in pressure in order to make them act. 

@@ -4,4 +4,4 @@ Capital of the #eastBeacon & seat of the elven council. it is primarily elegant 
 - Right as we are about to enter the city we pass a tavern called the [[Tyr Tankard]] while approaching it we hear a air raid siren of sorts.
 - The population mainly consists of halfling and mostly elves with a smattering of other races. 
 - The city is growing at a rapid rate
-- The [[merchants guild]] has a office in the prime shoppe. 
+- The [[Merchants Guild]] has a office in the prime shoppe. 

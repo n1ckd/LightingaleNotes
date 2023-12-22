@@ -24,4 +24,3 @@ Mars makes  a tea to stay awake by foraging some ginseng roots to make a caffina
 The party comes across a caravan of a wood elf and two half elves who seem to sell potions. We trade 3 of the smaller boars for a crate of 6 health potions. We take the 6 tusks as proof of kill. We reach Zul by the end of day. 
 #### End of day
 The party comes to [[Tyr Tankard]] and gets extra gold (60pcs per character for 2 boar) and we decided to contact the merchant guild to try and get to the bottom of our surprise attack in the night by what appears to be guild members - we can also ask about the bandit situation and maybe gain reputation. 
-

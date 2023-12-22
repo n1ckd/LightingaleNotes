@@ -1,0 +1,3 @@
+[[Xivine]] & [[The Symphony]]![[Pasted image 20231216005131.png]]
+"Join The Symphony & Support Our Ongoing Fight, Enter the Cleve & Map Any Part For A Reward and Glory, Talk With The Captain In [[Xivine]] For More Information, Dangerous and Risky Be Warned of Death, Not for the Unexperienced or Weak"
+We know that [[The Cleve]] is something of importance from the west beacon that Thom recognizes somehow without being able to understand much more of it. 

@@ -1,0 +1,313 @@
+{
+  "main": {
+    "id": "5a63a9a4240d2466",
+    "type": "split",
+    "children": [
+      {
+        "id": "3535863710f1d7d8",
+        "type": "split",
+        "children": [
+          {
+            "id": "7eda420c09f568ce",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4bd1930dd7c970ac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sessions/Session 5.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "92fd6a84e763bbc9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Thoughts & Threads/Thoughts While Playing.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "907c0996bb48b592",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Places/Landmarks/The Ruined Temple.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "558ecb2cb414a501",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Factions/Handler Gang.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4c00c1363f4507c9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "People/Enemies/Tigerclaw.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "45d22154798027dd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dc540bd62d4e5af8",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9262f4423ad5c25f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "People/The Party/The Party.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3377fff724f0bb66",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Maps & Documents/note in a bandit tent.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "45fedd012ad38510",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "People/Drilkesh Iriekria.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "271402988b19d44a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8bcf8793e196958",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a93603caa5c39435",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae73e5f554c98e99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9107a630388af912",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "636b540ca9200de1",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc988781eac1a88b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a13dad562617faf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessions/Session 5.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b62f50c2c0e279b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sessions/Session 5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3ee32ab0b375041",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3201f6782c536ad7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sessions/Session 5.md"
+              }
+            }
+          },
+          {
+            "id": "8c5de98c14d9b98a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c14ba4e681c7099f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "4bd1930dd7c970ac",
+  "lastOpenFiles": [
+    "Thoughts & Threads/Thoughts While Playing.md",
+    "Places/Landmarks/The Ruined Temple.md",
+    "Factions/Handler Gang.md",
+    "People/Enemies/Tigerclaw.md",
+    "People/Enemies/The Handler.md",
+    "Sessions/Session 5.md",
+    "People/The Party/The Party.md",
+    "Gods & Deities/Vakaris.md",
+    "Gods & Deities/Rytus.md",
+    "Factions/The Concert.md",
+    "Maps & Documents/note in a bandit tent.md",
+    "Thoughts & Threads",
+    "Maps & Documents/map with handwritten notes.md",
+    "Places/Cities & Villages/Xivine.md",
+    "People/The Party/Clay.md",
+    "People/The Party/Ari.md",
+    "People/The Party/Albrecht.md",
+    "Sessions/Session 2.md",
+    "Sessions/Session 1.md",
+    "Sessions/Session 0.5.md",
+    "People/Alice.md",
+    "Maps & Documents/Handler Support Letter.md",
+    "Factions/The Elven Council.md",
+    "Places/The Cleve.md",
+    "People/Enemies/GhoulStinger.md",
+    "People/Enemies/Scaletail.md",
+    "People/The Party/Yuli.md",
+    "People/Other",
+    "People/Enemies",
+    "People/Allies",
+    "Places/Landmarks",
+    "Assets/image.png",
+    "Assets/Pasted image 20231216030110.png",
+    "Assets/Themar_Wilds_Bandits 1.webp",
+    "Assets/Pasted image 20231216005131.png",
+    "Assets/Pasted image 20231216001756.png",
+    "Assets/Themar_Wilds_Bandits.webp",
+    "Assets",
+    "Maps & Documents"
+  ]
+}

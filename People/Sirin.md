@@ -1,0 +1,1 @@
+A member of the [[merchants guild]] in [[Zul]] who attacked us in the [[Themar Wilds]] , albrecht and yuli defended the party from the surprise attack ending the fight with the death of Siring at the hands of a fireball from Yuli.

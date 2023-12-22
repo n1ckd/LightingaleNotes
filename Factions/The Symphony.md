@@ -1,0 +1,1 @@
+The main 'guard' of the west beacon
