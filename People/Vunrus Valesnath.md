@@ -1,0 +1,1 @@
+A older Triton Blacksmith with rough dark blue skin, a little over five foot tall of average build with a round and somewhat attractive face, He has long and very wavy green hair and green eyes. The smith of [[Forge of the Seas]]

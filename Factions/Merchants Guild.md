@@ -1,1 +1,1 @@
-the guilds insignia is a kraken wrapping its tentacles around a bag of items 
+the guilds insignia is a kraken wrapping its tentacles around a bag of items. The merchants guild has representation in both beacons, this is a pretty big deal and seems to hint that they are a fairly neutral party in this political environment. 

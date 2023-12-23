@@ -4,127 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "3535863710f1d7d8",
-        "type": "split",
+        "id": "7eda420c09f568ce",
+        "type": "tabs",
         "children": [
           {
-            "id": "7eda420c09f568ce",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4bd1930dd7c970ac",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sessions/Session 5.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "92fd6a84e763bbc9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Thoughts & Threads/Thoughts While Playing.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "907c0996bb48b592",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Places/Landmarks/The Ruined Temple.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "558ecb2cb414a501",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Factions/Handler Gang.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "4c00c1363f4507c9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "People/Enemies/Tigerclaw.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "92fd6a84e763bbc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 7.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "45d22154798027dd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "dc540bd62d4e5af8",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
-                "id": "9262f4423ad5c25f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "People/The Party/The Party.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "3377fff724f0bb66",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Maps & Documents/note in a bandit tent.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "45fedd012ad38510",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "People/Drilkesh Iriekria.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "e657d6a937153f45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 7.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "ec5f06aea36bd7a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forge of the Seas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,6 +89,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "c14ba4e681c7099f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ]
       }
@@ -183,14 +111,26 @@
       {
         "id": "fc988781eac1a88b",
         "type": "tabs",
+        "dimension": 40.53398058252427,
         "children": [
+          {
+            "id": "f3ee32ab0b375041",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
           {
             "id": "2a13dad562617faf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 5.md",
+                "file": "Forge of the Seas.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,20 +147,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 5.md",
+                "file": "Forge of the Seas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f3ee32ab0b375041",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -230,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 5.md"
+                "file": "Forge of the Seas.md"
               }
             }
           },
@@ -241,16 +170,60 @@
               "type": "calendar",
               "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "76727a6c618ee8b7",
+        "type": "tabs",
+        "dimension": 59.46601941747572,
+        "children": [
           {
-            "id": "c14ba4e681c7099f",
+            "id": "a26885d9eed59135",
             "type": "leaf",
             "state": {
-              "type": "DICE_ROLLER_VIEW",
+              "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "50a2b450758ee754",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Forge of the Seas.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6468518613086632,
+                  "close": true
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -268,35 +241,35 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "4bd1930dd7c970ac",
+  "active": "ec5f06aea36bd7a3",
   "lastOpenFiles": [
-    "Thoughts & Threads/Thoughts While Playing.md",
-    "Places/Landmarks/The Ruined Temple.md",
-    "Factions/Handler Gang.md",
-    "People/Enemies/Tigerclaw.md",
-    "People/Enemies/The Handler.md",
+    "Sessions/Session 7.md",
+    "Forge of the Seas.md",
+    "Places/Cities & Villages/The Pink Elf.md",
+    "People/Arelen Runelenrin.md",
+    "Sessions/Session 6.md",
+    "Places/Forests/Themar Wilds.md",
     "Sessions/Session 5.md",
+    "People/Vunrus Valesnath.md",
+    "Places/Cities & Villages/Zul.md",
+    "Factions/Handler Gang.md",
+    "Factions/Merchants Guild.md",
+    "Places/The Cleve.md",
+    "People/Suka Orin.md",
+    "People/Odidove Goodbrand.md",
+    "Places/Cities & Villages/Ampar point.md",
+    "Maps & Documents/map with handwritten notes.md",
+    "Places/Landmarks/The Ruined Temple.md",
+    "People/Enemies/Tigerclaw.md",
+    "Sessions/Sessions.md",
+    "Thoughts & Threads/Thoughts While Playing.md",
+    "People/Drilkesh Iriekria.md",
+    "Maps & Documents/note in a bandit tent.md",
     "People/The Party/The Party.md",
+    "People/Enemies/The Handler.md",
     "Gods & Deities/Vakaris.md",
     "Gods & Deities/Rytus.md",
-    "Factions/The Concert.md",
-    "Maps & Documents/note in a bandit tent.md",
     "Thoughts & Threads",
-    "Maps & Documents/map with handwritten notes.md",
-    "Places/Cities & Villages/Xivine.md",
-    "People/The Party/Clay.md",
-    "People/The Party/Ari.md",
-    "People/The Party/Albrecht.md",
-    "Sessions/Session 2.md",
-    "Sessions/Session 1.md",
-    "Sessions/Session 0.5.md",
-    "People/Alice.md",
-    "Maps & Documents/Handler Support Letter.md",
-    "Factions/The Elven Council.md",
-    "Places/The Cleve.md",
-    "People/Enemies/GhoulStinger.md",
-    "People/Enemies/Scaletail.md",
-    "People/The Party/Yuli.md",
     "People/Other",
     "People/Enemies",
     "People/Allies",
