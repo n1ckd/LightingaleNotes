@@ -7,7 +7,19 @@ Capital of the #eastBeacon & seat of the elven council. it is primarily elegant 
 - The city is growing at a rapid rate
 - The [[Merchants Guild]] has a office in the prime shoppe. 
 - The construction is constant with every return to the city it seems to be expanding.
-Prime Shops:
+- The council district holds the tower that has [[The Elven Council]]
+#### Prime Shops:
+The Oldest dhops close to the center of Zul.
 [[The Pink Elf]]
 [[Forge of the Seas]]
-[[]]
+[[Goods of the Tribe]]
+[[Lith's Little Chemist]]
+[[Merchants Guild]]
+#### Beacon Bureau:
+
+#### Grove Gate Section:
+
+#### Shops & Vendors
+- The Fish Market
+- [[Tyr Tankard]]
+- 

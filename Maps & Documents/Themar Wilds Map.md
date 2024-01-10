@@ -1,5 +1,7 @@
 ![[image.png]]
 [[Themar Wilds]]
+### Locations :
+----
 [[Constellation Hill]]
 [[Grove Marsh]]
 [[The Ruined Temple]]

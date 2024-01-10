@@ -1,1 +1,0 @@
-A sea themed building with classic elven architecture and it has moss on the side of the building with the buildings sides are made of well crafted wood with mist surrounding the building located in [[Zul]] in the Prime Shoppes it is run by [[Vunrus Valesnath]] and it 

@@ -1,0 +1,1 @@
+Run by [[Arlayna Torfir]] its the general store in the Prime Shoppes, they are considered a

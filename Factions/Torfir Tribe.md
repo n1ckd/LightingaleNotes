@@ -1,0 +1,1 @@
+They are the most powerful family in [[Zul]] and currently makeup the entirety of the [[The Elven Council]].

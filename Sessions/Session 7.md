@@ -4,6 +4,13 @@ session date: 12-22-2023
 world date:11th of Arvandor
 
 ----
+## Session Summary
+### Encounters of Note
+- 
+### Characters of Note
+### Important World Information
+
+-----
 ## Back to Zul
 We choose to head back to [[Zul]] with the corpse of [[Tigerclaw]] & his tiger - as well as the necklace of ears. As we are riding back on horses conjured by Thom, we are attacked in the woods by a large humanoid figure surrounded by eleven others and what looks to be a Firbolg dressed as a druid (13 others). They start attacking us with a crossbow shot and Albrecht takes one hit as we manage to escape - Ari before they are out of range tells them with message "we mean no harm, just passing through , name and affiliation question mark" and they reply "we represent the handler"
 

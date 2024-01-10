@@ -1,5 +1,4 @@
-Beast and beast like monsters exist in the Themar Wilds as well as some Fae and Fiend creatures.
-### *Coin insignia of a Corvid stamped into the page* 
+Beast and beast-like monsters exist in the Themar Wilds as well as some Fae and Fiend creatures.
 ## Creatures & Beasts:
 - #### Boar 
 - #### Bear
@@ -10,15 +9,15 @@ Beast and beast like monsters exist in the Themar Wilds as well as some Fae and 
 	- weak to acid and fire
 - #### Displacer Beasts 
 	- Seen in a pair south of Zul in the Themar Wilds.
-- #### Faerie dragon 
+- #### [[Faerie Dragon]] 
 	- Followed by Mars and eventually found on the border of the Richland Range in the Themar WIlds.
 - #### Yeth hounds 
 - #### Owl Bear
 - #### Grick 
 - #### Shambling Mound  
-- #### Giant Boar 
-	- Very Territorial Creatures, Seen moving in large groups, Led by an 'Alpha Boar'
-## Plants & Herbs
+- #### [[Wereboar]]
+- #### [[Giant Boar]] 
+## Plants & Herbs  
 - #### Buried Ginseng Root
 	-  Caffeinated tea
 - #### Red Magic Flowers
@@ -29,5 +28,7 @@ Beast and beast like monsters exist in the Themar Wilds as well as some Fae and 
 	-  Are Poisonous & Smell bad.
 - #### Pine needles 
 	- Minty flavor
+- #### [[Torfir Lillies]]
+	- only found in the [[Talking Grove]]
 
  

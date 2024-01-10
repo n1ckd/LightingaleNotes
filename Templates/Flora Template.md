@@ -1,0 +1,8 @@
+### Image: 
+----
+### Description:
+
+### Effects:
+
+### Encountered:
+

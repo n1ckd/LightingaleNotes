@@ -1,2 +1,0 @@
-
-The tavern outside of [[Zul]], run by a half elf middle aged inn keeper behind the bar. The alcohol consists of wine ale and beer. The Barmaid working here is Ari and serves Mars Yuli and Albrecht. Eventually Ari introduces the party to one another and offers them the

@@ -1,7 +1,7 @@
 # The Party Comes Together 
 ---
 
-location(s): [[Places/Forests/Themar Wilds]], [[Zul]], [[Tyr Tankard]], [[Tavern]]
+location(s): [[Places/Forests/Themar Wilds]], [[Zul]], [[Tyr Tankard]], [[Drunk Dwarf Tavern]]
 session date: 11-03-2023
 world date: 2nd of Arvandor
 

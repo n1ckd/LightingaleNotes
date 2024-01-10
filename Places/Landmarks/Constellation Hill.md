@@ -1,0 +1,1 @@
+One of the smaller waypoints in the [[Themar Wilds]] that the party has visited a few times. we were ambushed while camping there in [[Session 2]].

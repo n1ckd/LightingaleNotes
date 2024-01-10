@@ -1,0 +1,2 @@
+A runic arch found in the northern section of the [[Themar Wilds]] near the [[Aqueduct]]. When casting detect magic the runes on the arch appear to glow - the architecture seems to be elven and we could not deduce much from it apart from that other than it being very old and magic. 
+Upon walking through the arch Mars & Yuli walked through it and felt invigorated and like we could see better. We then had a advantage on perception checks.

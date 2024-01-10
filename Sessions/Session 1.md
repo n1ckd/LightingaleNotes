@@ -4,11 +4,14 @@ session date: 11-13-2023
 world date: 3rd of Arvandor
 
 ---------
-## Npcs & Locations
-
 ## Session Summary
-We start the monster hunt, fend off a group of bears, and sleep in a tree.
+### Encounters of Note
+- We camp under a large tree on a hill outside of [[Zul]] near the [[Themar Wilds]] and get attacked by a group of bears.
+### Characters of Note
+### Important World Information
+- The party begins their monster hunt for the competition run by [[Fin]]
 
+-----
 ## Session Notes
 ### The morning after meeting
 The party slept the night in Tyr Tankard, having all been introduced and grouped together under the goal of competing in the monster slaying competition run by the Taverns owner. Tom Albrecht and Mars share some tea and Clay buys some street food off a vendor outside.

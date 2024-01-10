@@ -1,2 +1,2 @@
-Guin's Character is looking for a Mr.Benedict Cleabes and Zuli recognized the name as we meet in the [[Tyr Tankard]].
-He is the Vice Mage of the [[Discovery school of magic]], he is not positioned in [[Zul]]he is instead overlooks their offshoot city to the north called [[Esa Themar]]. He will not be returning to Zul unless the head mage dies or needs replacement.
+[[Thom]] is looking for a Mr.Benedict Cleabes and [[Yuli]] recognized the name as we meet in the [[Tyr Tankard]].
+He is the Vice Mage of the [[Discovery school of magic]], he is not positioned in [[Zul]] he is instead overlooks their offshoot city to the north called [[Esa Themar]]. He will not be returning to Zul unless the head mage dies or needs replacement.

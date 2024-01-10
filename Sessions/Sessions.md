@@ -7,12 +7,6 @@
 - [[Session 5]]
 - [[Session 6]]
 - [[Session 7]]
+- [[Session 8]]
 
 %% End Waypoint %%
-
-
- 
-```ccard
-type: folder_brief_live
-```
- 

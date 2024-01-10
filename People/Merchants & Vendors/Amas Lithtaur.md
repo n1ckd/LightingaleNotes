@@ -1,0 +1,1 @@
+There is a female wood elf with long wavy gray hair red eyes oblong face and stocky build with a tattoo on her right hand that is the branding of a slave. They run the [[Lith's Little Chemist]] shop in [[Zul]]
