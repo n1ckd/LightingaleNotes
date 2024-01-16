@@ -6,9 +6,14 @@ world date:11th of Arvandor
 ----
 ## Session Summary
 ### Encounters of Note
-- 
+- Attacked while returning to [[Zul]] in the [[Themar Wilds]] by members of [[Handler Gang]] that were led or accompanied by a Druid Firbolg who Ari Messaged as we rode away
+- Discovered [[The Pink Elf]], [[Forge of the Seas]], [[Lith's Little Chemist]], and [[Goods of the Tribe]] in the Prime Shoppes of [[Zul]]
 ### Characters of Note
+- [[Arelen Runelenrin]] of [[The Pink Elf]]
+- [[Vunrus Valesnath]] of The [[Forge of the Seas]]
+- Druid Firbolg representing [[The Handler]]
 ### Important World Information
+- Upon looking into his book for information on Firbolgs Mars only finds scrawled pages 
 
 -----
 ## Back to Zul
@@ -19,7 +24,7 @@ We find a well hidden, small, missable area not too far from the lone tree were 
 We then go to the merchants guild to collect on the bounty placed on tiger claw. Yuli asks Mars if he had recognized the Firbolg that attacked them and he did not recognize them, upon checking his bestiary under 'Firbolg' he only has a illegible scramble of a page. 
 ## Prime Shopping District:
 ### The Pink Elf
-a high end inn -  pinkish wood building with a glowing front door, with a prismatic brick color and rainbow windows it feels out of place in the surrounding city- the sign reads [[The Pink Elf]].
+A high end inn -  pinkish wood building with a glowing front door, with a prismatic brick color and rainbow windows it feels out of place in the surrounding city- the sign reads [[The Pink Elf]].
 In the pink elf Ari Yuli and Thom all attempt to flirt with [[Arelen Runelenrin]] - Yuli manages to talk to them and flirt by getting a kiss on the hand and a wink but still fail pretty hard - not as hard as Thom does though, Thom rolled a natural one and has a nosebleed and passes out.
 ### Forge of the seas
 A sea themed building with classic elven architecture and it has moss on the side of the building with the buildings sides are made of well crafted wood with mist surrounding the building named the [[Forge of the Seas]].

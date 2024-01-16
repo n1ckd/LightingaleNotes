@@ -6,8 +6,13 @@ world date: 7th of Arvandor
 ------
 ## Session Summary
 ### Encounters of Note
+- Discovered [[The Ruined Temple]]
+- Ambused and captured members of the [[Handler Gang]] in the woods in the night
 ### Characters of Note
+- Fishmarket Dragonborn in [[Zul]] who knows Yuli's father [[Drilkesh Iriekria]]
 ### Important World Information
+- Found what appears to be a piece of a temple or a shrine to [[Rytus]]
+- The bandits / [[Handler Gang]] members seem to have paths that branch through the [[Themar Wilds]] off of the main roads
 
 -----
 ## Session Notes

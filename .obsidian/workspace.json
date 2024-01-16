@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/The Cleve.md",
+                "file": "Sessions/Session 8.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "394a0cee332f07f4",
@@ -107,19 +107,19 @@
             }
           },
           {
-            "id": "0946d690109ae961",
+            "id": "ea42f4c8c2092af1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 0.5.md",
+                "file": "Places/Landmarks/Magical Elven Arch.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 0.5.md",
+                "file": "Thoughts & Threads/Thoughts While Playing.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 0.5.md",
+                "file": "Thoughts & Threads/Thoughts While Playing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 0.5.md"
+                "file": "Thoughts & Threads/Thoughts While Playing.md"
               }
             }
           },
@@ -277,7 +277,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sessions/Session 0.5.md",
+                "file": "Thoughts & Threads/Thoughts While Playing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -325,44 +325,44 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "0946d690109ae961",
+  "active": "0648e71bd415f470",
   "lastOpenFiles": [
     "Holiday's & Events/World Calendar.md",
-    "Thoughts & Threads/Thoughts While Playing.md",
-    "Sessions/Session 8.md",
-    "Sessions/Session 6.md",
     "Maps & Documents/note in a bandit tent.md",
+    "Holiday's & Events/Fall/Sorrow.md",
+    "Rite of Renewal.md",
+    "Places/Landmarks/Magical Elven Arch.md",
+    "Sessions/Session 5.md",
+    "Sessions/Session 8.md",
+    "Sessions/Session 7.md",
+    "Sessions/Session 6.md",
+    "Places/The Cleve.md",
+    "Sessions/Session 4.md",
+    "Sessions/Session 3.md",
+    "Sessions/Session 2.md",
+    "Sessions/Session 1.md",
+    "Sessions/Session 0.5.md",
+    "Thoughts & Threads/Thoughts While Playing.md",
     "Gods & Deities/Betrayer Deities",
     "Gods & Deities/Lesser Idols",
     "Gods & Deities/Ancient Deities",
     "Gods & Deities/Prime Deities",
     "Holiday's & Events/Fall/Foundation Day.md",
-    "Rite of Renewal.md",
-    "Holiday's & Events/Fall/Sorrow.md",
     "Harvest's Close.md",
     "Civilization's Dawn.md",
     "Holiday's & Events/Summer/Highsummer.md",
     "Holiday's & Events/Spring/Untitled.md",
-    "Places/The Cleve.md",
     "Factions/The Symphony.md",
     "Gods & Deities/Ancient Deities/Vakaris.md",
     "Gods & Deities/Ancient Deities/Rytus.md",
     "Holiday's & Events/Fall/Untitled.md",
-    "Sessions/Session 2.md",
     "Holiday's & Events/Fall",
     "Holiday's & Events/Winter",
     "Holiday's & Events/Summer",
     "Holiday's & Events/Spring",
     "Holiday's & Events/Fall/Fall.md",
-    "Holiday's & Events/Winter/Winter.md",
-    "Holiday's & Events/Spring.md",
-    "Holiday's & Events/Summer/Summer.md",
-    "Holiday's & Events/Untitled.md",
     "Holiday's & Events/Summer",
     "Holiday's & Events/Winter",
-    "Sessions/Session 5.md",
-    "Places/Cities & Villages/Zul.md",
-    "Mars Bestiary/Glossary/Flora/Flora.md",
     "Assets/image.png",
     "Assets/Pasted image 20231216030110.png",
     "Assets/Themar_Wilds_Bandits 1.webp",
