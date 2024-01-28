@@ -30,7 +30,7 @@ The group reconnects at Tyr Tavern where we eat some sushi and decide to head ou
 the next day we identify tiger tracks, sliding tracks with insect like markings, and displacer beast tracks. 
 the tiger tracks go south east, the thin sliding tracks lead east and the displacer beast tracks also go eastward.
 we choose to follow the tiger tracks but assume that the paths we have been seeing belong to the bandits as they have been travelling through the woods.
-We end the day by setting camp up off the road behind rocks - here Ari finds in a chunk of rock the icon of [[Rytus]] 
+We end the day by setting camp up off the road behind rocks - here Ari finds in a chunk of rock with the icon of [[Rytus]] 
 All 5 armed people going through the woods with crossbows and swords heading from south to north. We assume this group is the bandits in the area and decide to follow them. we successfully sneak up to them and when they hit a clearing they spread out into a semi circle we surprise attack them killing two of the five immediately then tying up the reaming three and interrogating them for information about the [[Handler Gang]] in the area. We get a map of the [[Themar Wilds Map]]
 and have the bandits identify where the wanted members are. The bandits each have 
 a schimitar

@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "554cec2cce5cf084",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Holiday's & Events/World Calendar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eb41177e68eb6d01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Holiday's & Events/World Calendar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0648e71bd415f470",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thoughts & Threads/Thoughts While Playing.md",
+                "file": "Sessions/Session 9.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,39 +25,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 8.md",
+                "file": "People/Enemies/Scaletail.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "716ddca2b450ccdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ancient stone urn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb8d707d62c5d5ce",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Themar_Wilds_Bandits.webp"
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "394a0cee332f07f4",
         "type": "tabs",
         "children": [
-          {
-            "id": "5eb8f5a01dfb72e0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b264b60b584d9b53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rite of Renewal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "d3010de917cc9d79",
             "type": "leaf",
@@ -100,8 +77,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps & Documents/note in a bandit tent.md",
-                "mode": "source",
+                "file": "Holiday's & Events/Fall/Rite of Renewal.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -117,9 +94,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b1014f16f971993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Other/Drilkesh Iriekria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49a77394f24ef8ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Holiday's & Events/World Calendar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe0f49ab46acf9d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 0.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -148,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fog",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,8 +194,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thoughts & Threads/Thoughts While Playing.md",
+                "file": "Sessions/Session 9.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -231,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thoughts & Threads/Thoughts While Playing.md",
+                "file": "Sessions/Session 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thoughts & Threads/Thoughts While Playing.md"
+                "file": "Sessions/Session 9.md"
               }
             }
           },
@@ -277,7 +289,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Thoughts & Threads/Thoughts While Playing.md",
+                "file": "Sessions/Session 9.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -306,11 +318,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -325,49 +338,50 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "0648e71bd415f470",
+  "active": "eb41177e68eb6d01",
   "lastOpenFiles": [
-    "Holiday's & Events/World Calendar.md",
-    "Maps & Documents/note in a bandit tent.md",
-    "Holiday's & Events/Fall/Sorrow.md",
-    "Rite of Renewal.md",
-    "Places/Landmarks/Magical Elven Arch.md",
+    "Factions/Handler Gang.md",
+    "Sessions/Session 0.5.md",
+    "People/Other/Drilkesh Iriekria.md",
     "Sessions/Session 5.md",
-    "Sessions/Session 8.md",
-    "Sessions/Session 7.md",
-    "Sessions/Session 6.md",
-    "Places/The Cleve.md",
+    "Sessions/Sessions.md",
     "Sessions/Session 4.md",
     "Sessions/Session 3.md",
-    "Sessions/Session 2.md",
+    "Sessions/Session 9.md",
     "Sessions/Session 1.md",
-    "Sessions/Session 0.5.md",
+    "Sessions/Session 8.md",
+    "Assets/Themar_Wilds_Bandits.webp",
+    "Assets/Themar_Wilds_Bandits 1.webp",
+    "Gods & Deities/Ancient Deities/Vakaris.md",
+    "Gods & Deities/Ancient Deities/Rytus.md",
+    "Ancient stone urn.md",
+    "Holiday's & Events/Age of Expansion.md",
+    "Holiday's & Events/World Calendar.md",
+    "People/Suka Orin.md",
+    "People/Enemies/Scaletail.md",
+    "Maps & Documents/Handler Support Letter.md",
+    "Assets/Aqueduct_Base.jpg",
+    "Templates/sessionTemplate.md",
+    "Holiday's & Events/Fall/Sorrow.md",
+    "Holiday's & Events/Fall/Rite of Renewal.md",
+    "Places/Landmarks/Magical Elven Arch.md",
+    "Factions/The Diamond Collection.md",
     "Thoughts & Threads/Thoughts While Playing.md",
+    "Maps & Documents/note in a bandit tent.md",
+    "Sessions/Session 7.md",
     "Gods & Deities/Betrayer Deities",
     "Gods & Deities/Lesser Idols",
     "Gods & Deities/Ancient Deities",
     "Gods & Deities/Prime Deities",
-    "Holiday's & Events/Fall/Foundation Day.md",
-    "Harvest's Close.md",
-    "Civilization's Dawn.md",
-    "Holiday's & Events/Summer/Highsummer.md",
-    "Holiday's & Events/Spring/Untitled.md",
-    "Factions/The Symphony.md",
-    "Gods & Deities/Ancient Deities/Vakaris.md",
-    "Gods & Deities/Ancient Deities/Rytus.md",
-    "Holiday's & Events/Fall/Untitled.md",
     "Holiday's & Events/Fall",
     "Holiday's & Events/Winter",
     "Holiday's & Events/Summer",
     "Holiday's & Events/Spring",
-    "Holiday's & Events/Fall/Fall.md",
     "Holiday's & Events/Summer",
     "Holiday's & Events/Winter",
     "Assets/image.png",
     "Assets/Pasted image 20231216030110.png",
-    "Assets/Themar_Wilds_Bandits 1.webp",
     "Assets/Pasted image 20231216005131.png",
-    "Assets/Pasted image 20231216001756.png",
-    "Assets/Themar_Wilds_Bandits.webp"
+    "Assets/Pasted image 20231216001756.png"
   ]
 }

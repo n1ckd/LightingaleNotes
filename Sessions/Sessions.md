@@ -8,5 +8,6 @@
 - [[Session 6]]
 - [[Session 7]]
 - [[Session 8]]
+- [[Session 9]]
 
 %% End Waypoint %%
