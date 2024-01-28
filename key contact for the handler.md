@@ -1,0 +1,1 @@
+The note lists someone as the "[[Moonstep Heir]]" is the [[The Handler]] key contact in [[Esa Themar]]

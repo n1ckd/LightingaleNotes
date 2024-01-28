@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 9.md",
+                "file": "Voltemand Wanted Poster.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Enemies/Scaletail.md",
+                "file": "Sessions/Session 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "394a0cee332f07f4",
@@ -118,21 +119,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fe0f49ab46acf9d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 0.5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -226,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 9.md",
+                "file": "Sessions/Session 10.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -243,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 9.md",
+                "file": "Sessions/Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 9.md"
+                "file": "Sessions/Session 10.md"
               }
             }
           },
@@ -289,7 +278,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sessions/Session 9.md",
+                "file": "Sessions/Session 10.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -338,16 +327,27 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "eb41177e68eb6d01",
+  "active": "b62e8337ca53db83",
   "lastOpenFiles": [
+    "caged duergars.md",
+    "Sessions/Session 10.md",
+    "Moonstep Heir.md",
+    "Voltemand Wanted Poster.md",
+    "Assets/Wanted_Poster.pdf",
+    "Voltemand.md",
+    "leger of shipments.md",
+    "Sessions/Session 6.md",
+    "key contact for the handler.md",
+    "Sessions/Session 5.md",
+    "People/Enemies/Tigerclaw.md",
+    "Sessions/Session 9.md",
+    "People/Enemies/Scaletail.md",
     "Factions/Handler Gang.md",
     "Sessions/Session 0.5.md",
     "People/Other/Drilkesh Iriekria.md",
-    "Sessions/Session 5.md",
     "Sessions/Sessions.md",
     "Sessions/Session 4.md",
     "Sessions/Session 3.md",
-    "Sessions/Session 9.md",
     "Sessions/Session 1.md",
     "Sessions/Session 8.md",
     "Assets/Themar_Wilds_Bandits.webp",
@@ -358,17 +358,7 @@
     "Holiday's & Events/Age of Expansion.md",
     "Holiday's & Events/World Calendar.md",
     "People/Suka Orin.md",
-    "People/Enemies/Scaletail.md",
-    "Maps & Documents/Handler Support Letter.md",
     "Assets/Aqueduct_Base.jpg",
-    "Templates/sessionTemplate.md",
-    "Holiday's & Events/Fall/Sorrow.md",
-    "Holiday's & Events/Fall/Rite of Renewal.md",
-    "Places/Landmarks/Magical Elven Arch.md",
-    "Factions/The Diamond Collection.md",
-    "Thoughts & Threads/Thoughts While Playing.md",
-    "Maps & Documents/note in a bandit tent.md",
-    "Sessions/Session 7.md",
     "Gods & Deities/Betrayer Deities",
     "Gods & Deities/Lesser Idols",
     "Gods & Deities/Ancient Deities",
@@ -378,7 +368,6 @@
     "Holiday's & Events/Summer",
     "Holiday's & Events/Spring",
     "Holiday's & Events/Summer",
-    "Holiday's & Events/Winter",
     "Assets/image.png",
     "Assets/Pasted image 20231216030110.png",
     "Assets/Pasted image 20231216005131.png",
