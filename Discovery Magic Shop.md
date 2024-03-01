@@ -1,0 +1,1 @@
+A magic shop run by the [[Discovery School of Magic]] students. The clerk who greets us on our first visit is a human - something pretty rare. 

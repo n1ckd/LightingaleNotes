@@ -7,16 +7,16 @@ World Date : 18th of Arvandor-19th of Arvandor
 ## Session Summary
 ### Encounters of Note
 - The group defeats [[Scaletail]] and his crocodile.
-- The group frees some [[Caged Duergars]] that were being used for manual labor. 
+- The group frees some [[caged duergars]] that were being used for manual labor. 
 ### Characters of Note
 - we find a [[key contact for the handler]] note.
 ### Important World Information 
 - The water in the underground river was salt water and flowing to a loud mechanical noise we heard on one side of the cavern.
 - Scaletail seemed to have a religous reason for having the power to heal himself.
-- Mars may have connections to the talking grove and the [[Caged Duergars]] recognized him.
+- Mars may have connections to the talking grove and the [[caged duergars]] recognized him.
 - Mars found a lucky salt crystal and attached it to his necklace of ears. 
 - There is a [[leger of shipments]] found among the bandits things.
-- A wanted poster is found for a member of the [[Voltemand]] family that Ari burns.
+- A wanted poster is found for a member of the [[Voltemand Family]] family that Ari burns.
 ----
 ## Session Notes
 ### Fighting Scaletail
@@ -28,13 +28,13 @@ Ari uses comprehend languages to talk to [[caged duergars]] that we found in the
 Ari gets a bag of 20 caltrops and 50 feet of rope. 
 Yuli finds a [[leger of shipments]] and 80gp, a sheet with a [[key contact for the handler]] and a [[map of the entire east beacon]] 
 Mars investigates the crystals in the area and they seem to be natural formations form the salt water in the cavern.
-Yuli finds a [[Voltemand Wanted Poster]] for a person named [[Voltemand]] in the bandit tents, basic fishing equipment, 1000cp and 1800sp, and a bottle of holy water
+Yuli finds a [[Voltemand Wanted Poster]] for a person belonging to the [[Voltemand Family]] in the bandit tents, basic fishing equipment, 1000cp and 1800sp, and a bottle of holy water
 
 As the duergar round the corner to see mars they become panicked and in undercommon say "the talking grove i've seen him before at the talking grove" Ari tries to have clay talk to them and as she mentions the [[Talking Grove]].
 
 mars goes over and plucks a crystal out of the pile he investigated before believing it to be his lucky crystal - he then attaches it to his necklace of ears. 
 
-when asking the [[Caged Duergars]] when they saw mars at the grove they say they saw mars years ago at the talking grove - they say they saw him or someone who looked a lot like him at the grove years ago. After clay has convinced them that mars is not a threat they seem ok with him and mars does not recognize it.
+when asking the [[caged duergars]] when they saw mars at the grove they say they saw mars years ago at the talking grove - they say they saw him or someone who looked a lot like him at the grove years ago. After clay has convinced them that mars is not a threat they seem ok with him and mars does not recognize it.
 
 a finely crafted short sword 
 2 bottles of alchemist fire

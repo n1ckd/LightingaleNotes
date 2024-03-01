@@ -1,1 +1,2 @@
 supposed to have [[Benedict Cleabes]] overlooking a secondary location for the [[Discovery School of Magic]]
+The nobility here seems to be helping the Handler as the city his gang is making is meant to strengthen them.

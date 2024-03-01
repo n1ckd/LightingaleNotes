@@ -1,0 +1,1 @@
+the student running the [[Discovery Magic Shop]] in [[Zul]]. She is a female human with blonde hair. 

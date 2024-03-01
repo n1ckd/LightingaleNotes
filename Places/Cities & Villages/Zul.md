@@ -9,7 +9,7 @@ Capital of the #eastBeacon & seat of the elven council. it is primarily elegant 
 - The construction is constant with every return to the city it seems to be expanding.
 - The council district holds the tower that has [[The Elven Council]]
 #### Prime Shops:
-The Oldest dhops close to the center of Zul.
+The Oldest shops close to the center of Zul.
 [[The Pink Elf]]
 [[Forge of the Seas]]
 [[Goods of the Tribe]]
