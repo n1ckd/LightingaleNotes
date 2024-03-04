@@ -1,4 +1,4 @@
-- Is the Symphony tied to the Concert? 
+- Is the Symphony tied to the Concert?  (yes)
 	-  Apart from the musical naming convention The west beacon is much more of a knowledge seeking / anti establishment type of group versus the stricter east beacon and the elven council that runs it. And from what we know about the deity Vakaris & the note in the bandit camp advertising "the cleave"
 	- The Concert may be the west beacon's counterpart to The Elven Council? Taylor lists them as the two biggest factions in the world
 	- Why is the Concert / The Symphony hiring for the handler gang & what are they trying to change to bring about the 'new world'

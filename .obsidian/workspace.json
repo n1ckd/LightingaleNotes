@@ -8,48 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b62e8337ca53db83",
+            "id": "a6ac06f99776e431",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 11.md",
+                "file": "Thoughts & Threads/Thoughts While Playing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
+          {
+            "id": "878b3d45eb4e576a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Suka Orin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7132c5459e314cbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 12.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "cbafb8c5c6be94c3",
+        "type": "tabs",
+        "children": [
           {
             "id": "83c3a67e5b28203a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 0.5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "539f97649f504860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Merchants & Vendors/Arelen Runelenrin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6ac06f99776e431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 7.md",
+                "file": "Sessions/Session 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,12 +68,32 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Assets/Aqueduct_Base.jpg"
+                "file": "Assets/map of the east beacon.jpg"
+              }
+            }
+          },
+          {
+            "id": "cebdb15a0ccd8109",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4b316bed020567f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts & Threads/Thoughts While Playing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,7 +168,7 @@
       {
         "id": "fc988781eac1a88b",
         "type": "tabs",
-        "dimension": 34.31022158684775,
+        "dimension": 28.91809908998989,
         "children": [
           {
             "id": "f3ee32ab0b375041",
@@ -160,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 11.md",
+                "file": "Sessions/Session 12.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 11.md",
+                "file": "Sessions/Session 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 11.md"
+                "file": "Sessions/Session 12.md"
               }
             }
           },
@@ -207,7 +234,7 @@
       {
         "id": "c3d54a792f7c02de",
         "type": "tabs",
-        "dimension": 35.95425303788421,
+        "dimension": 37.2093023255814,
         "children": [
           {
             "id": "a26885d9eed59135",
@@ -222,7 +249,7 @@
       {
         "id": "76727a6c618ee8b7",
         "type": "tabs",
-        "dimension": 29.735525375268047,
+        "dimension": 33.872598584428715,
         "children": [
           {
             "id": "50a2b450758ee754",
@@ -230,7 +257,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sessions/Session 11.md",
+                "file": "Sessions/Session 12.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -253,7 +280,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.24453605163543637,
+                  "scale": 0.15119284461461716,
                   "close": true
                 }
               }
@@ -278,43 +305,46 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "a26885d9eed59135",
+  "active": "8c5de98c14d9b98a",
   "lastOpenFiles": [
-    "People/Merchants & Vendors/Arelen Runelenrin.md",
-    "Places/Landmarks/The Ruined Temple.md",
+    "Holiday's & Events/Fall/Sorrow.md",
+    "Sessions/Session 12.md",
+    "Thoughts & Threads/Thoughts While Playing.md",
+    "Maps & Documents/Voltemand Wanted Poster.md",
+    "People/Suka Orin.md",
+    "People/Other/Voltemand Family.md",
+    "People/The Party/Ari Feldwin - Meana Voltemand.md",
+    "Sessions/Session 6.md",
+    "Maps & Documents/Handler Support Letter.md",
+    "People/Benedict Cleabes.md",
+    "Maps & Documents/note in a bandit tent.md",
+    "Sessions/Session 10.md",
+    "the clea.md",
     "Sessions/Session 11.md",
+    "Assets/map of the east beacon.jpg",
+    "Maps & Documents/map with handwritten notes.md",
+    "Maps & Documents/key contact for the handler.md",
+    "Handlers New City.md",
+    "Assets/image.png",
+    "Partial Map of Themar Wilds.md",
+    "Assets/Northwest_Themar_Wilds 1.jpg",
+    "Assets/Northwest_Themar_Wilds.jpg",
+    "Sessions/Session 7.md",
+    "People/Merchants & Vendors/Arelen Runelenrin.md",
+    "Assets/Aqueduct_Base.jpg",
+    "Assets/Themar_Wilds_Bandits 1.webp",
+    "Assets/Wanted_Poster.pdf",
     "Sessions/Session 0.5.md",
+    "People/Other/Caged Duergars.md",
+    "Sessions/Sessions.md",
+    "Assets/Pasted image 20231216001756.png",
+    "Places/Landmarks/The Ruined Temple.md",
     "Dreams & Visions/dream_0.md",
     "Places/Cities & Villages/Esa Themar.md",
-    "Places/Cities & Villages/Zul.md",
-    "Discovery Magic Shop.md",
-    "Magic Student.md",
-    "Forgotten Lodge.md",
-    "Sessions/Session 7.md",
-    "Maps & Documents/Voltemand Wanted Poster.md",
-    "Factions/Merchants Guild.md",
-    "Sessions/Session 10.md",
-    "Assets/Aqueduct_Base.jpg",
-    "Assets/image.png",
-    "Assets/Pasted image 20231216001756.png",
     "Assets/Pasted image 20231216005131.png",
     "Assets/Pasted image 20231216030110.png",
     "Assets/Themar_Wilds_Bandits.webp",
-    "Assets/Themar_Wilds_Bandits 1.webp",
-    "Assets/Wanted_Poster.pdf",
-    "Holiday's & Events/World Calendar.md",
-    "People/Other/Drilkesh Iriekria.md",
-    "Places/Landmarks/Magical Elven Arch.md",
-    "Holiday's & Events/Fall/Rite of Renewal.md",
-    "Holiday's & Events/Fall/Sorrow.md",
-    "Loot & Items/Ancient stone urn.md",
-    "Templates/sessionTemplate.md",
-    "Sessions/Sessions.md",
     "Loot & Items",
-    "Gods & Deities/Ancient Deities/Rytus.md",
-    "People/Enemies/Moonstep Heir.md",
-    "People/Other/Voltemand Family.md",
-    "People/Other/caged duergars.md",
     "Gods & Deities/Betrayer Deities",
     "Gods & Deities/Lesser Idols",
     "Gods & Deities/Ancient Deities",

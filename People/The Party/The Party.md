@@ -8,7 +8,7 @@
 - languages: giant, druidic, elvish
 
 ### (Maya) Ari
-- name: [[Ari]] Feldwin
+- name: [[Ari Feldwin - Meana Voltemand]] Feldwin
 - race: Half Elf
 - class: Bard / Warlock
 - subclass: 

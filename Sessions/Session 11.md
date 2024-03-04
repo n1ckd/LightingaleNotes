@@ -1,20 +1,21 @@
 # A Bounty Claimed  
 Locations : [[Themar Wilds]]
 Session Date : 2-24-2024
-World Date : 20th of Arvandor-
+World Date : 20th of Arvandor-26th of Arvandor
 
 -------
 ## Session Summary
 ### Encounters of Note
 
 ### Characters of Note
-
+- 
+- 
 ### Important World Information 
 
 ----
 ## Session Notes
 ### Beginning of Notes
-We part ways with the [[caged duergars]] as they go west after leaving Scaletail's lair, as the group rides back to [[Zul]] mars realizes the salt crystal is around his neck and decides to drop it - when the rest of the party sees this they question him about it and while he doesnt remember anything about the crystal they drop it relatively fast but mars keeps the crystal in his bag to keep for later. 
+We part ways with the [[Caged Duergars]] as they go west after leaving Scaletail's lair, as the group rides back to [[Zul]] mars realizes the salt crystal is around his neck and decides to drop it - when the rest of the party sees this they question him about it and while he doesn't remember anything about the crystal they drop it relatively fast but mars keeps the crystal in his bag to keep for later. 
 
 Upon settling for a campsite we see two Pegasus fly away through the tree tops - likely because we spooked them coming through the underbrush.
 
@@ -25,7 +26,7 @@ We roll and seem to regain time on our approach to [[Zul]] we see one of our cap
 We bring our bounty back to [[Fin]] and he asks if we have seen a group of druids, they are another adventuring party of half elves who seem to have gone missing and no one has seen them since the 13th of Arvandor.
 
 We then go back to the [[Merchants Guild]] to claim the bounty on [[Scaletail]], [[Odidove Goodbrand]] gives us each 100gp for the head and on our way back to [[Tyr Tankard]] we check the contract board near the main tower of zul - it is covered in contracts for construction and looking for home building workers. 
-There is a delivery request from a noble to go to [[gold maldyr]].
+There is a delivery request from a noble to go to [[Gold Maldir]].
 Ari finds another [[Voltemand Wanted Poster]]
 A half ripped piece of paper that says [[Mission to the Forgotten Lodge poster]], on a history check we know that the [[Forgotten Lodge]] refers to the original founding place of Zul where the elven tribes met and no one knows where it is today. 
 
@@ -40,4 +41,4 @@ Thom and Yuli then break off to go to [[The Pink Elf]] to see [[Arelen Runelenri
 
 Ari asks mars if he has anything about fog in his book and upon checking he has a page on purple fog in the underdark. But mars brings up the [[Nightmare Fog]] that they experienced during [[Session 0.5]] and it turns out Ari also experienced it but instead of being set back over a day of travel she was progressed a day. All members were knocked out and had nightmares that seemed to be of their past - what could have been the worse thing to happen to them but twisted. Albrecht seemed extra bothered by it but it is a similar reaction to last time.
 
-Thom hears a message in their head "thomasson this is benedict cleabes i'm [[Esa Themar]] word of your work has made your way to my ear - please make your way to my place of living 
+Thom hears a message in their head "hello Thomason this is vice master [[Benedict Cleabes]] ....I'm in [[Esa Themar]] word of your work has made your way to my ear - please make your way to my place of living" 

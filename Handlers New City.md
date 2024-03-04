@@ -1,0 +1,1 @@
+made up of many yurts, seemingly abandoned while under construction  - there is a lot of fallen branches and leaves they are only framed out and lightly abandoned and seem to have been made with the fabricate spell.

@@ -1,1 +1,1 @@
-The tavern outside of [[Zul]], run by a half elf middle aged inn keeper behind the bar. The alcohol consists of wine ale and beer. We meet [[Ari]] working as a barmaid here as well as the owner of the Tyr Tankard [[Fin]]
+The tavern outside of [[Zul]], run by a half elf middle aged inn keeper behind the bar. The alcohol consists of wine ale and beer. We meet [[Ari Feldwin - Meana Voltemand]] working as a barmaid here as well as the owner of the Tyr Tankard [[Fin]]
