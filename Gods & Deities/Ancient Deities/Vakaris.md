@@ -1,4 +1,4 @@
-The primordial Deity of the world of Lightingale & they are a essentially primordial deity. Vakaris is the east beacon's deity a parallel to [[Rytus]]the east beacons deity both of which are tied to the founding tribe.
+The primordial Deity of the world of Lightingale & they are a essentially primordial deity. Vakaris is the east beacon's deity a parallel to [[Rytus]] the east beacons deity both of which are tied to the founding tribe.
 #### Alignment
 - Lawful Neutral
 #### Province
