@@ -1,4 +1,4 @@
-The Calendar of Lightingale is split into four seasons known as the conventional four seasons, each season contains four months of varying length. There are 524 days total in the year. Holidays commonly revolve around events or deities.
+hThe Calendar of Lightingale is split into four seasons known as the conventional four seasons, each season contains four months of varying length. There are 524 days total in the year. Holidays commonly revolve around events or deities.
 
 | Season | Month | Length | Holidays |
 | ---- | ---- | ---- | ---- |

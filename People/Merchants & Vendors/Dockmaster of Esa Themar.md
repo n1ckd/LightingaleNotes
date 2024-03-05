@@ -1,0 +1,1 @@
+A rugged older half elf man with longer golden curly hair who runs the docks of Esa Themar.

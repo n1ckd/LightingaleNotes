@@ -4,66 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa683c634490b58b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a6ac06f99776e431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thoughts & Threads/Thoughts While Playing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "878b3d45eb4e576a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Suka Orin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7132c5459e314cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 12.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "cbafb8c5c6be94c3",
         "type": "tabs",
         "children": [
           {
             "id": "83c3a67e5b28203a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb8d707d62c5d5ce",
             "type": "leaf",
             "state": {
               "type": "image",
@@ -73,11 +18,42 @@
             }
           },
           {
-            "id": "cebdb15a0ccd8109",
+            "id": "cb8d707d62c5d5ce",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Holiday's & Events/Summer/Highsummer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76402f962a012379",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Thoughts & Threads/Theory Board.canvas",
+                "viewState": {
+                  "x": -2667.543505621101,
+                  "y": 644.5468763547635,
+                  "zoom": -2.63095979080049
+                }
+              }
+            }
+          },
+          {
+            "id": "878b3d45eb4e576a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 12.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -91,9 +67,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7c48262684b841b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maps & Documents/Handler Support Letter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +143,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 12.md",
+                "file": "Thoughts & Threads/Theory Board.canvas",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -204,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 12.md",
+                "file": "Thoughts & Threads/Theory Board.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 12.md"
+                "file": "Thoughts & Threads/Theory Board.canvas"
               }
             }
           },
@@ -257,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sessions/Session 12.md",
+                "file": "Thoughts & Threads/Theory Board.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,42 +294,43 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "8c5de98c14d9b98a",
+  "active": "76402f962a012379",
   "lastOpenFiles": [
-    "Holiday's & Events/Fall/Sorrow.md",
-    "Sessions/Session 12.md",
-    "Thoughts & Threads/Thoughts While Playing.md",
-    "Maps & Documents/Voltemand Wanted Poster.md",
-    "People/Suka Orin.md",
-    "People/Other/Voltemand Family.md",
-    "People/The Party/Ari Feldwin - Meana Voltemand.md",
-    "Sessions/Session 6.md",
+    "Factions/The Elven Council.md",
     "Maps & Documents/Handler Support Letter.md",
-    "People/Benedict Cleabes.md",
+    "Holiday's & Events/Summer/Highsummer.md",
+    "Factions/The Symphony.md",
     "Maps & Documents/note in a bandit tent.md",
-    "Sessions/Session 10.md",
-    "the clea.md",
-    "Sessions/Session 11.md",
+    "Places/The Cleve.md",
+    "Thoughts & Threads/Theory Board.canvas",
+    "People/Merchants & Vendors/Arelen Runelenrin.md",
+    "Holiday's & Events/Fall/Foundation Day.md",
+    "Places/Cities & Villages/Zul.md",
+    "Holiday's & Events/World Calendar.md",
+    "Sessions/Session 12.md",
+    "Necro-shifting.md",
+    "Places/Forests/The Infected Woods.md",
+    "The Infection.md",
+    "Thoughts & Threads/Thoughts While Playing.md",
     "Assets/map of the east beacon.jpg",
-    "Maps & Documents/map with handwritten notes.md",
-    "Maps & Documents/key contact for the handler.md",
-    "Handlers New City.md",
-    "Assets/image.png",
+    "Holiday's & Events/Spring/Hillsgold.md",
+    "Holiday's & Events/Spring/New Dawn.md",
+    "Places/Landmarks/The Teal Basilisk.md",
+    "People/Merchants & Vendors/Dockmaster of Esa Themar.md",
+    "Sessions/Sessions.md",
     "Partial Map of Themar Wilds.md",
+    "Places/Cities & Villages/New Sathas.md",
+    "Places/Cities & Villages/Sathas.md",
+    "People/Suka Orin.md",
+    "Sessions/Session 6.md",
+    "Places/Landmarks/Forgotten Lodge.md",
+    "Assets/image.png",
     "Assets/Northwest_Themar_Wilds 1.jpg",
     "Assets/Northwest_Themar_Wilds.jpg",
-    "Sessions/Session 7.md",
-    "People/Merchants & Vendors/Arelen Runelenrin.md",
     "Assets/Aqueduct_Base.jpg",
     "Assets/Themar_Wilds_Bandits 1.webp",
     "Assets/Wanted_Poster.pdf",
-    "Sessions/Session 0.5.md",
-    "People/Other/Caged Duergars.md",
-    "Sessions/Sessions.md",
     "Assets/Pasted image 20231216001756.png",
-    "Places/Landmarks/The Ruined Temple.md",
-    "Dreams & Visions/dream_0.md",
-    "Places/Cities & Villages/Esa Themar.md",
     "Assets/Pasted image 20231216005131.png",
     "Assets/Pasted image 20231216030110.png",
     "Assets/Themar_Wilds_Bandits.webp",

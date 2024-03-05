@@ -1,0 +1,1 @@
+an area in the #eastBeacon that used to be the location of [[Sathas]] before the creation of [[The Cleve]]. The group of elves that used to live there fled and created [[New Sathas]].
