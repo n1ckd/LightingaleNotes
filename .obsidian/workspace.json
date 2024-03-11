@@ -11,21 +11,14 @@
             "id": "83c3a67e5b28203a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Assets/map of the east beacon.jpg"
-              }
-            }
-          },
-          {
-            "id": "cb8d707d62c5d5ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Holiday's & Events/Summer/Highsummer.md",
-                "mode": "source",
-                "source": false
+                "file": "Thoughts & Threads/Theory Board.canvas",
+                "viewState": {
+                  "x": -2873.036620582824,
+                  "y": 2275.569004587889,
+                  "zoom": -0.9289169019385177
+                }
               }
             }
           },
@@ -33,14 +26,47 @@
             "id": "76402f962a012379",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Thoughts & Threads/Theory Board.canvas",
-                "viewState": {
-                  "x": -4058.4976480098694,
-                  "y": 18.978024053993284,
-                  "zoom": -2.220998947905966
-                }
+                "file": "Sessions/Session 13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d91613514170015d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Letter From Sora.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "098470c2e51a77ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cliffton DeBolbec.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fc86edaccd7506a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grasping vines.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -67,21 +93,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f7c48262684b841b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maps & Documents/Handler Support Letter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fog",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,8 +157,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thoughts & Threads/Theory Board.canvas",
+                "file": "grasping vines.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thoughts & Threads/Theory Board.canvas",
+                "file": "grasping vines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thoughts & Threads/Theory Board.canvas"
+                "file": "grasping vines.md"
               }
             }
           },
@@ -246,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Thoughts & Threads/Theory Board.canvas",
+                "file": "grasping vines.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,7 +282,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.15119284461461716,
+                  "scale": 0.29717800979229075,
                   "close": true
                 }
               }
@@ -294,36 +307,36 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "76402f962a012379",
+  "active": "3fc86edaccd7506a",
   "lastOpenFiles": [
+    "Cliffton DeBolbec.md",
+    "Letter From Sora.md",
+    "Thoughts & Threads/Theory Board.canvas",
+    "Sessions/Session 13.md",
+    "Sessions/Session 12.md",
+    "Dreams & Visions/dream_1.md",
+    "Holiday's & Events/Summer/Highsummer.md",
+    "Assets/My_Dearest_Yuli.pdf",
+    "Assets/map of the east beacon.jpg",
+    "Maps & Documents/Handler Support Letter.md",
+    "Honey Hall.md",
+    "grasping vines.md",
+    "Sessions/Session 11.md",
+    "People/Merchants & Vendors/Arelen Runelenrin.md",
+    "Cliff of the Winery.md",
     "Nightmare Fog.md",
     "Thoughts & Threads/Thoughts While Playing.md",
-    "Thoughts & Threads/Theory Board.canvas",
-    "Sessions/Session 12.md",
     "People/Suka Orin.md",
     "Factions/The Elven Council.md",
-    "Maps & Documents/Handler Support Letter.md",
-    "Holiday's & Events/Summer/Highsummer.md",
     "Factions/The Symphony.md",
     "Maps & Documents/note in a bandit tent.md",
     "Places/The Cleve.md",
-    "People/Merchants & Vendors/Arelen Runelenrin.md",
     "Holiday's & Events/Fall/Foundation Day.md",
     "Places/Cities & Villages/Zul.md",
     "Holiday's & Events/World Calendar.md",
     "Necro-shifting.md",
     "Places/Forests/The Infected Woods.md",
     "The Infection.md",
-    "Assets/map of the east beacon.jpg",
-    "Holiday's & Events/Spring/Hillsgold.md",
-    "Holiday's & Events/Spring/New Dawn.md",
-    "Places/Landmarks/The Teal Basilisk.md",
-    "People/Merchants & Vendors/Dockmaster of Esa Themar.md",
-    "Sessions/Sessions.md",
-    "Partial Map of Themar Wilds.md",
-    "Places/Cities & Villages/New Sathas.md",
-    "Places/Cities & Villages/Sathas.md",
-    "Sessions/Session 6.md",
     "Assets/image.png",
     "Assets/Northwest_Themar_Wilds 1.jpg",
     "Assets/Northwest_Themar_Wilds.jpg",
@@ -341,7 +354,6 @@
     "Gods & Deities/Prime Deities",
     "Holiday's & Events/Fall",
     "Holiday's & Events/Winter",
-    "Holiday's & Events/Summer",
-    "Holiday's & Events/Spring"
+    "Holiday's & Events/Summer"
   ]
 }

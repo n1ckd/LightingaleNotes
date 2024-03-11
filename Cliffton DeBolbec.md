@@ -1,0 +1,1 @@
+owner of [[grasping vines]] a half elf who has a leaf growing out of his chest albrecht took them out with yuli. 

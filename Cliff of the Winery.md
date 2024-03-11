@@ -1,0 +1,1 @@
+a tavern in [[Esa Minor]] that is near the [[The Teal Basilisk]] statue of [[Rytus]] it is packed with live music but serves the rich of the rich , its two stories with the second story being a loft that looks down on the band. The bar is a semi-circle that follows the entire back wall of the building.
