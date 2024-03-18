@@ -2,7 +2,7 @@
 title: Session #
 feed: hide
 format: list
-date: 
+date: 2024-01-01
 edited: false
 locations:
 world date: 
