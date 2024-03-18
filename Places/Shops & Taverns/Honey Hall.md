@@ -1,0 +1,1 @@
+A hideout or meeting place for rogues outside [[Esa Themar]].

@@ -1,5 +1,5 @@
 # Gala at the Manor 
-Locations : [[Esa Themar]], [[grasping vines]], [[Cliff of the Winery]]
+Locations : [[Esa Themar]], [[Grasping Vines]], [[Cliff of the Winery]]
 Session Date : 3-8-2024
 World Date : 31st of Arvandor- 32nd of Arvandor
 
@@ -34,7 +34,7 @@ While sitting at the bar a female half elf comes over and asks if we would like 
 [[Thom]] looks for humans, and there is one - [[Clay]] drinking in the corner. 
 [[Yuli]] looks for moon elves, and while there are a few they don't look like yuli - they have different eyes, hair and facial features.
 
-We leave the tavern and decide to go look for rooms at a place we can afford, we find another tavern near the edge of town called [[grasping vines]].
+We leave the tavern and decide to go look for rooms at a place we can afford, we find another tavern near the edge of town called [[Grasping Vines]].
 
 large cottage structure with warm lighting and wooden construction many many plants blooming on the exterior and interior 
 burnt golden skin and eyes short muscular he offers us 3 rooms, on investigating him we notice 3 things, on his left hand he has a brand on his hand that kind of looks like a dragon head turned to the side, he has a ton of jewelry on like rings and bracelets that are pretty cheaply made, and when he buffs up his shirt slightly opens revealing a leaf. 

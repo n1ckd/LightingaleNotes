@@ -35,12 +35,24 @@
             }
           },
           {
+            "id": "3fc86edaccd7506a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d91613514170015d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Letter From Sora.md",
+                "file": "Maps & Documents/Letter From Sora.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,19 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cliffton DeBolbec.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fc86edaccd7506a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grasping vines.md",
+                "file": "People/Allies/Cliffton DeBolbec.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,14 +88,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nightmare Fog.md",
+                "file": "Mars Bestiary/Glossary/World Information/Nightmare Fog.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,7 +189,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grasping vines.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -206,7 +205,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grasping vines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,9 +215,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "grasping vines.md"
-              }
+              "state": {}
             }
           },
           {
@@ -259,7 +255,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "grasping vines.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -307,24 +302,30 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "3fc86edaccd7506a",
+  "active": "a26885d9eed59135",
   "lastOpenFiles": [
-    "Cliffton DeBolbec.md",
-    "Letter From Sora.md",
-    "Thoughts & Threads/Theory Board.canvas",
     "Sessions/Session 13.md",
     "Sessions/Session 12.md",
+    "Mars Bestiary/Glossary/Glossary.md",
+    "Mars Bestiary/Glossary/Themar Wilds Notes/Talking Grove Notes.md",
+    "Mars Bestiary/Glossary/World Information",
+    "Mars Bestiary/Glossary/World Information/The Infection.md",
+    "Maps & Documents/Partial Map of Themar Wilds.md",
+    "Mars Bestiary/Glossary/World Information/Nightmare Fog.md",
+    "Mars Bestiary/Glossary/World Information/Necro-shifting.md",
+    "Maps & Documents/Letter From Sora.md",
+    "Places/Shops & Taverns/Honey Hall.md",
+    "Places/Shops & Taverns/Grasping Vines.md",
+    "People/Allies/Cliffton DeBolbec.md",
+    "Places/Shops & Taverns/Cliff of the Winery.md",
+    "Thoughts & Threads/Theory Board.canvas",
     "Dreams & Visions/dream_1.md",
     "Holiday's & Events/Summer/Highsummer.md",
     "Assets/My_Dearest_Yuli.pdf",
     "Assets/map of the east beacon.jpg",
     "Maps & Documents/Handler Support Letter.md",
-    "Honey Hall.md",
-    "grasping vines.md",
     "Sessions/Session 11.md",
     "People/Merchants & Vendors/Arelen Runelenrin.md",
-    "Cliff of the Winery.md",
-    "Nightmare Fog.md",
     "Thoughts & Threads/Thoughts While Playing.md",
     "People/Suka Orin.md",
     "Factions/The Elven Council.md",
@@ -333,10 +334,6 @@
     "Places/The Cleve.md",
     "Holiday's & Events/Fall/Foundation Day.md",
     "Places/Cities & Villages/Zul.md",
-    "Holiday's & Events/World Calendar.md",
-    "Necro-shifting.md",
-    "Places/Forests/The Infected Woods.md",
-    "The Infection.md",
     "Assets/image.png",
     "Assets/Northwest_Themar_Wilds 1.jpg",
     "Assets/Northwest_Themar_Wilds.jpg",
@@ -353,7 +350,6 @@
     "Gods & Deities/Ancient Deities",
     "Gods & Deities/Prime Deities",
     "Holiday's & Events/Fall",
-    "Holiday's & Events/Winter",
-    "Holiday's & Events/Summer"
+    "Holiday's & Events/Winter"
   ]
 }
