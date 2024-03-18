@@ -2,7 +2,7 @@
 title: Session #
 feed: hide
 format: list
-date: 0000-00-00
+date: 
 edited: false
 locations:
 world date: 
