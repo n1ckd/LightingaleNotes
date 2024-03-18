@@ -1,8 +1,14 @@
-# The Hunt Continues
-locations: [[Themar Wilds]]
-session date: 11-27-2023
+---
+title: Session 3
+feed: show
+format: list
+date: 2023-11-27
+edited: true
+locations:
+  - "[[Themar Wilds]]"
 world date: 6th of Arvandor
-
+---
+# The Hunt Continues
 ----
 ## Session Summary
 ### Encounters of Note

@@ -1,8 +1,17 @@
+---
+title: Session 7
+feed: show
+format: list
+date: 2023-12-22
+edited: true
+locations:
+  - "[[Zul]]"
+  - "[[Tyr Tankard]]"
+  - "[[Themar Wilds]]"
+  - [[The Ruined Temple]]
+world date: 11th of Arvandor
+---
 # Trophy Return
-locations: [[Zul]], [[Themar Wilds]], [[The Ruined Temple]], [[Tyr Tankard]]
-session date: 12-22-2023
-world date:11th of Arvandor
-
 ----
 ## Session Summary
 ### Encounters of Note

@@ -1,3 +1,13 @@
+---
+title: Session 2
+feed: show
+format: list
+date: 2023-11-17
+edited: true
+locations:
+  - "[[Themar Wilds]]"
+world date: 5th of Arvandor
+---
 # Hunter or Hunted
 locations: [[Themar Wilds]]
 session date: 11-17-2023

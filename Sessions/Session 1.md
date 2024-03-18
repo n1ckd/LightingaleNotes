@@ -1,8 +1,17 @@
-# Into the Woods
-location(s):  [[Zul]], [[Tyr Tankard]], [[Themar Wilds]]
-session date: 11-13-2023
+---
+title: Session 1
+feed: show
+format: list
+date: 2023-11-13
+edited: true
+locations:
+  - "[[Zul]]"
+  - "[[Tyr Tankard]]"
+  - "[[Themar Wilds]]"
 world date: 3rd of Arvandor
+---
 
+# Into the Woods
 ---------
 ## Session Summary
 ### Encounters of Note

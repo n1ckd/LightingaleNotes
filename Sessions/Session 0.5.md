@@ -1,13 +1,21 @@
-# The Party Comes Together 
 ---
-
-location(s): [[Places/Forests/Themar Wilds]], [[Zul]], [[Tyr Tankard]], [[Drunk Dwarf Tavern]]
-session date: 11-03-2023
+title: Session 0.5
+feed: show
+format: list
+date: 2023-11-03
+edited: true
+locations:
+  - "[[Zul]]"
+  - "[[Tyr Tankard]]"
+  - "[[Themar Wilds]]"
+  - "[[Drunk Dwarf Tavern]]"
 world date: 2nd of Arvandor
-
+---
+# The Party Comes Together 
 ---
 # Session Summary
 #### Npcs Mentioned
+
 | Npc                  | location         | description                      |
 | -------------------- | ---------------- | -------------------------------- |
 | [[Wandering wizard]] | [[Places/Forests/Themar Wilds]]|  Random road encounter?                                |

@@ -1,8 +1,15 @@
+---
+title: Session 12
+feed: show
+format: list
+date: 2024-03-02
+edited: true
+locations:
+  - "[[Zul]]"
+  - "[[Tyr Tankard]]"
+world date: 27th of Arvandor - 31st of Arvandor
+---
 # A Quest For Cleabes  
-Locations : [[Zul]], [[Tyr Tankard]], 
-Session Date : 3-2-2024
-World Date : 27th of Arvandor - 31st of Arvandor
-
 -------
 ## Session Summary
 ### Encounters of Note

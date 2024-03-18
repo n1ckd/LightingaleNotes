@@ -1,8 +1,16 @@
-# Tiger Claw & His Temple of Friends
-locations: [[Zul]], [[Themar Wilds]], [[The Ruined Temple]]
-session date: 12-15-2023
+---
+title: Session 6
+feed: show
+format: list
+date: 2023-12-15
+edited: true
+locations:
+  - "[[Zul]]"
+  - "[[The Ruined Temple]]"
+  - "[[Themar Wilds]]"
 world date: 8th of Arvandor
-
+---
+# Tiger Claw & His Temple of Friends
 ----
 ## Session Summary
 ### Encounters of Note

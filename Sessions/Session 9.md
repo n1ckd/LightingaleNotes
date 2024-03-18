@@ -1,8 +1,16 @@
+---
+title: Session 9
+feed: show
+format: list
+date: 2024-01-20
+edited: false
+locations:
+  - "[[Coastal Revine]]"
+  - "[[Themar Wilds]]"
+  - "[[Aqueduct]]"
+world date: 17th of Arvandor - 18th of Arvandor
+---
 # ScaleTail's Lair  
-Locations : [[Aqueduct]], [[Themar Wilds]], [[Coastal Revine]]
-Session Date : 1-20-2024
-World Date : 17th of Arvandor - 18th of Arvandor
-
 -------
 ## Session Summary
 ### Encounters of Note

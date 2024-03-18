@@ -1,8 +1,16 @@
+---
+title: Session 13
+feed: show
+format: list
+date: 2024-03-08
+edited: false
+locations:
+  - "[[Esa Themar]]"
+  - "[[Grasping Vines]]"
+  - "[[Cliff of the Winery]]"
+world date: 31st of Arvandor - 32nd of Arvandor
+---
 # Gala at the Manor 
-Locations : [[Esa Themar]], [[Grasping Vines]], [[Cliff of the Winery]]
-Session Date : 3-8-2024
-World Date : 31st of Arvandor- 32nd of Arvandor
-
 -------
 ## Session Summary
 ### Encounters of Note

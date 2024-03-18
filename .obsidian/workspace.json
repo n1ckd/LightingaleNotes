@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 13.md",
+                "file": "Templates/sessionTemplate.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
       {
         "id": "fc988781eac1a88b",
         "type": "tabs",
-        "dimension": 28.91809908998989,
+        "dimension": 25.232308791994278,
         "children": [
           {
             "id": "f3ee32ab0b375041",
@@ -184,11 +184,50 @@
             }
           },
           {
+            "id": "3201f6782c536ad7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/sessionTemplate.md"
+              }
+            }
+          },
+          {
+            "id": "8c5de98c14d9b98a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2140f8bfb35ddf3b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "29e67f8ef4360baf",
+        "type": "tabs",
+        "dimension": 22.301644031451037,
+        "children": [
+          {
             "id": "2a13dad562617faf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/sessionTemplate.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -205,34 +244,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/sessionTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "3201f6782c536ad7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "8c5de98c14d9b98a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "c3d54a792f7c02de",
         "type": "tabs",
-        "dimension": 37.2093023255814,
+        "dimension": 25.73266619013581,
         "children": [
           {
             "id": "a26885d9eed59135",
@@ -247,7 +271,7 @@
       {
         "id": "76727a6c618ee8b7",
         "type": "tabs",
-        "dimension": 33.872598584428715,
+        "dimension": 26.73338098641887,
         "children": [
           {
             "id": "50a2b450758ee754",
@@ -255,6 +279,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Templates/sessionTemplate.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,10 +327,25 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "a26885d9eed59135",
+  "active": "3fc86edaccd7506a",
   "lastOpenFiles": [
-    "Sessions/Session 13.md",
+    "Sessions/Sessions.md",
     "Sessions/Session 12.md",
+    "Sessions/Session 13.md",
+    "Sessions/Session 11.md",
+    "Sessions/Session 10.md",
+    "Sessions/Session 9.md",
+    "Sessions/Session 8.md",
+    "Sessions/Session 7.md",
+    "Sessions/Session 6.md",
+    "Sessions/Session 5.md",
+    "Sessions/Session 4.md",
+    "Sessions/Session 3.md",
+    "Sessions/Session 2.md",
+    "Sessions/Session 1.md",
+    "Sessions/Session 0.5.md",
+    "Templates/sessionTemplate.md",
+    "Thoughts & Threads/Theory Board.canvas",
     "Mars Bestiary/Glossary/Glossary.md",
     "Mars Bestiary/Glossary/Themar Wilds Notes/Talking Grove Notes.md",
     "Mars Bestiary/Glossary/World Information",
@@ -317,23 +357,8 @@
     "Places/Shops & Taverns/Honey Hall.md",
     "Places/Shops & Taverns/Grasping Vines.md",
     "People/Allies/Cliffton DeBolbec.md",
-    "Places/Shops & Taverns/Cliff of the Winery.md",
-    "Thoughts & Threads/Theory Board.canvas",
-    "Dreams & Visions/dream_1.md",
-    "Holiday's & Events/Summer/Highsummer.md",
     "Assets/My_Dearest_Yuli.pdf",
     "Assets/map of the east beacon.jpg",
-    "Maps & Documents/Handler Support Letter.md",
-    "Sessions/Session 11.md",
-    "People/Merchants & Vendors/Arelen Runelenrin.md",
-    "Thoughts & Threads/Thoughts While Playing.md",
-    "People/Suka Orin.md",
-    "Factions/The Elven Council.md",
-    "Factions/The Symphony.md",
-    "Maps & Documents/note in a bandit tent.md",
-    "Places/The Cleve.md",
-    "Holiday's & Events/Fall/Foundation Day.md",
-    "Places/Cities & Villages/Zul.md",
     "Assets/image.png",
     "Assets/Northwest_Themar_Wilds 1.jpg",
     "Assets/Northwest_Themar_Wilds.jpg",

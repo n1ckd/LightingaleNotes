@@ -1,8 +1,15 @@
-# Back to the Hunt
-locations: [[Zul]], [[Themar Wilds]]
-session date: 12-10-2023
+---
+title: Session 5
+feed: show
+format: list
+date: 2023-12-10
+edited: true
+locations:
+  - "[[Zul]]"
+  - "[[Themar Wilds]]"
 world date: 7th of Arvandor
-
+---
+# Back to the Hunt
 ------
 ## Session Summary
 ### Encounters of Note

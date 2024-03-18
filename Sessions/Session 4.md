@@ -1,8 +1,14 @@
-# Trophy Return
-locations: [[Themar Wilds]]
-session date: 12-1-2023
+---
+title: Session 4
+feed: show
+format: list
+date: 2023-12-1
+edited: true
+locations:
+  - "[[Themar Wilds]]"
 world date: 6th of Arvandor
-
+---
+# Trophy Return
 ----
 ## Session Summary
 ### Encounters of Note

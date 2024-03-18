@@ -1,8 +1,17 @@
+---
+title: Session 8
+feed: show
+format: list
+date: 2024-01-05
+edited: true
+locations:
+  - "[[Zul]]"
+  - "[[Magical Elven Arch]]"
+  - "[[Themar Wilds]]"
+  - "[[Aqueduct]]"
+world date: 12th of Arvandor - 17th of Arvandor
+---
 # Arches & Aqueducts  
-Locations : [[Zul]], [[Magical Elven Arch]], [[Themar Wilds]], [[Aqueduct]]
-Session Date : 1-5-2024
-World Date : 12th of Arvandor - 17th of Arvandor
-
 -------
 ## Session Summary
 ### Encounters of Note

@@ -1,3 +1,13 @@
+---
+title: Session #
+feed: hide
+format: list
+date: 0000-00-00
+edited: false
+locations:
+world date: 
+---
+
 # Session Title  
 Locations :
 Session Date :

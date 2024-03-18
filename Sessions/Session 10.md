@@ -1,8 +1,15 @@
+---
+title: Session 10
+feed: show
+format: list
+date: 2024-01-28
+edited: true
+locations:
+  - "[[Themar Wilds]]"
+  - "[[Aqueduct]]"
+world date: 18th of Arvandor - 19th of Arvandor
+---
 # A Bounty Half Complete  
-Locations : [[Aqueduct]], [[Themar Wilds]], 
-Session Date : 1-28-2024
-World Date : 18th of Arvandor-19th of Arvandor
-
 -------
 ## Session Summary
 ### Encounters of Note

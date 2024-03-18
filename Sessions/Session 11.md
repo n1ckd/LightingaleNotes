@@ -1,8 +1,14 @@
+---
+title: Session 11
+feed: show
+format: list
+date: 2024-02-24
+edited: false
+locations:
+  - "[[Themar Wilds]]"
+world date: 20th of Arvandor - 26th of Arvandor
+---
 # A Bounty Claimed  
-Locations : [[Themar Wilds]]
-Session Date : 2-24-2024
-World Date : 20th of Arvandor-26th of Arvandor
-
 -------
 ## Session Summary
 ### Encounters of Note
