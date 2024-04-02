@@ -15,20 +15,20 @@
               "state": {
                 "file": "Thoughts & Threads/Theory Board.canvas",
                 "viewState": {
-                  "x": -2873.036620582824,
-                  "y": 2275.569004587889,
+                  "x": -2598.882774428976,
+                  "y": -1296.0463800274956,
                   "zoom": -0.9289169019385177
                 }
               }
             }
           },
           {
-            "id": "76402f962a012379",
+            "id": "b8dfb7866ce6d23b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 13.md",
+                "file": "Sessions/Session 14.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,62 +40,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/sessionTemplate.md",
+                "file": "Templates/Session 15.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d91613514170015d",
+            "id": "6ec456c18d0bc1f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps & Documents/Letter From Sora.md",
+                "file": "map of the basement.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "098470c2e51a77ae",
+            "id": "7483c812c57e796b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Allies/Cliffton DeBolbec.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "878b3d45eb4e576a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4b316bed020567f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mars Bestiary/Glossary/World Information/Nightmare Fog.md",
+                "file": "Sessions/Session 13.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -189,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/sessionTemplate.md"
+                "file": "Sessions/Session 13.md"
               }
             }
           },
@@ -227,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/sessionTemplate.md",
+                "file": "Sessions/Session 13.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -244,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/sessionTemplate.md",
+                "file": "Sessions/Session 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +255,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/sessionTemplate.md",
+                "file": "Sessions/Session 13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,7 +278,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.29717800979229075,
+                  "scale": 0.1078421461876941,
                   "close": true
                 }
               }
@@ -327,36 +303,37 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "3fc86edaccd7506a",
+  "active": "7483c812c57e796b",
   "lastOpenFiles": [
-    "Sessions/Sessions.md",
-    "Sessions/Session 12.md",
+    "Templates/Session 15.md",
+    "map of the basement.md",
+    "Assets/Pasted image 20240327003058.png",
     "Sessions/Session 13.md",
+    "Thoughts & Threads/Theory Board.canvas",
+    "Sessions/Session 14.md",
+    "Assets/Pasted image 20240326233911.png",
+    "vesh.md",
+    "Wardens Harbor.md",
+    "Maps & Documents/Letter From Sora.md",
+    "Places/Shops & Taverns/Grasping Vines.md",
+    "Sessions/Session 12.md",
+    "Tarum.md",
     "Sessions/Session 11.md",
+    "Gold Maldir.md",
+    "People/The Party/Yuli.md",
+    "Sessions/Sessions.md",
+    "Sessions/Session 0.5.md",
+    "Mars Bestiary/Glossary/World Information/Nightmare Fog.md",
+    "People/Allies/Cliffton DeBolbec.md",
+    "Templates/sessionTemplate.md",
+    "Templates/Flora Template.md",
     "Sessions/Session 10.md",
     "Sessions/Session 9.md",
     "Sessions/Session 8.md",
     "Sessions/Session 7.md",
     "Sessions/Session 6.md",
     "Sessions/Session 5.md",
-    "Sessions/Session 4.md",
-    "Sessions/Session 3.md",
-    "Sessions/Session 2.md",
-    "Sessions/Session 1.md",
-    "Sessions/Session 0.5.md",
-    "Templates/sessionTemplate.md",
-    "Thoughts & Threads/Theory Board.canvas",
-    "Mars Bestiary/Glossary/Glossary.md",
-    "Mars Bestiary/Glossary/Themar Wilds Notes/Talking Grove Notes.md",
     "Mars Bestiary/Glossary/World Information",
-    "Mars Bestiary/Glossary/World Information/The Infection.md",
-    "Maps & Documents/Partial Map of Themar Wilds.md",
-    "Mars Bestiary/Glossary/World Information/Nightmare Fog.md",
-    "Mars Bestiary/Glossary/World Information/Necro-shifting.md",
-    "Maps & Documents/Letter From Sora.md",
-    "Places/Shops & Taverns/Honey Hall.md",
-    "Places/Shops & Taverns/Grasping Vines.md",
-    "People/Allies/Cliffton DeBolbec.md",
     "Assets/My_Dearest_Yuli.pdf",
     "Assets/map of the east beacon.jpg",
     "Assets/image.png",
@@ -367,8 +344,6 @@
     "Assets/Wanted_Poster.pdf",
     "Assets/Pasted image 20231216001756.png",
     "Assets/Pasted image 20231216005131.png",
-    "Assets/Pasted image 20231216030110.png",
-    "Assets/Themar_Wilds_Bandits.webp",
     "Loot & Items",
     "Gods & Deities/Betrayer Deities",
     "Gods & Deities/Lesser Idols",

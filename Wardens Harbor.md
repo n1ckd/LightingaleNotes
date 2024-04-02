@@ -1,0 +1,1 @@
+Almost a military installation in the west beacon - its not what that area was originally called but it has been called that for awhile. Its name was shifted when it became a military operation run by [[The Symphony]]

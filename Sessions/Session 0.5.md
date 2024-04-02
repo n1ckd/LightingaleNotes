@@ -9,7 +9,7 @@ locations:
   - "[[Tyr Tankard]]"
   - "[[Themar Wilds]]"
   - "[[Drunk Dwarf Tavern]]"
-world date: 2nd of Arvandor
+world date: 1st of Arvandor - 2nd of Arvandor
 ---
 # The Party Comes Together 
 ---
