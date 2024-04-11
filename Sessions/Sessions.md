@@ -14,5 +14,7 @@
 - [[Session 12]]
 - [[Session 13]]
 - [[Session 14]]
+- [[Session 15]]
+- [[Session 16]]
 
 %% End Waypoint %%

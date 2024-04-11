@@ -8,27 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83c3a67e5b28203a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Thoughts & Threads/Theory Board.canvas",
-                "viewState": {
-                  "x": -2598.882774428976,
-                  "y": -1296.0463800274956,
-                  "zoom": -0.9289169019385177
-                }
-              }
-            }
-          },
-          {
             "id": "b8dfb7866ce6d23b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 14.md",
+                "file": "Sessions/Session 15.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Session 15.md",
+                "file": "Gods & Deities/Lesser Idols/Archivist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5aee8439e34eb6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vesh.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 13.md"
+                "file": "Gods & Deities/Lesser Idols/Archivist.md"
               }
             }
           },
@@ -203,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 13.md",
+                "file": "Gods & Deities/Lesser Idols/Archivist.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 13.md",
+                "file": "Gods & Deities/Lesser Idols/Archivist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sessions/Session 13.md",
+                "file": "Gods & Deities/Lesser Idols/Archivist.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -303,16 +300,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "7483c812c57e796b",
+  "active": "3fc86edaccd7506a",
   "lastOpenFiles": [
-    "Templates/Session 15.md",
-    "map of the basement.md",
-    "Assets/Pasted image 20240327003058.png",
-    "Sessions/Session 13.md",
+    "Sessions/Session 16.md",
+    "vesh.md",
+    "Sessions/Session 15.md",
     "Thoughts & Threads/Theory Board.canvas",
     "Sessions/Session 14.md",
+    "Sessions/Session 13.md",
+    "map of the basement.md",
+    "Assets/Pasted image 20240327003058.png",
     "Assets/Pasted image 20240326233911.png",
-    "vesh.md",
     "Wardens Harbor.md",
     "Maps & Documents/Letter From Sora.md",
     "Places/Shops & Taverns/Grasping Vines.md",
@@ -332,7 +330,6 @@
     "Sessions/Session 8.md",
     "Sessions/Session 7.md",
     "Sessions/Session 6.md",
-    "Sessions/Session 5.md",
     "Mars Bestiary/Glossary/World Information",
     "Assets/My_Dearest_Yuli.pdf",
     "Assets/map of the east beacon.jpg",
