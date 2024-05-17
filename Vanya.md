@@ -1,0 +1,1 @@
+long straight silver greyish hair with green eyes, with a pinkish dull skin she looks very rugged , like she's lived in a bad environment her skin is not well maintained, she is short - shorter than [[yuli]]. Her original name is [[Ending]] but after being freed from [[Esa Manor]] - she is 15 years old.

@@ -1,0 +1,1 @@
+Her family is from [[Wardens Harbor]] a area north of [[Xivine]] in the west beacon, she si 

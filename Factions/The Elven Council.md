@@ -1,4 +1,4 @@
-The Elven Council is made of 5 members (all currently held by the [[Torfir Tribe]] )
+The Elven Council is made of 5 members (3 of them currently held by the [[Torfir Tribe]] (high elf)2 by the sarxina(wood elf) olotoris(drow) )
 - the High Master- chooses who the other members of the council are and picks, he is nearly ending his term but has made a very important discovery during his 100 year tenure. we don't know what that discovery is yet as it seems to not be public news.  
 - the master of economy - 
 - the master of magic - 

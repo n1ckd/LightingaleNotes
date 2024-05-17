@@ -1,0 +1,1 @@
+The Tortle that is apart of the group of theives or rogues in [[Honey Hall]] who have information on [[Suka Orin]]. We got the Honeycomb crate for them out of [[Esa Manor]]. [[Draksis]] shot them.

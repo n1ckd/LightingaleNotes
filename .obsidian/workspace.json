@@ -8,60 +8,60 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8dfb7866ce6d23b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3fc86edaccd7506a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods & Deities/Lesser Idols/Archivist.md",
+                "file": "Places/Mountains/Winters Refuge.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e5aee8439e34eb6f",
+            "id": "37f75626c9796e7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vesh.md",
+                "file": "Sessions/Session 19.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6ec456c18d0bc1f4",
+            "id": "8ef26022c3b77769",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "map of the basement.md",
+                "file": "Fort shaker.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7483c812c57e796b",
+            "id": "37c3e3998e5c754b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 13.md",
+                "file": "rusted hooks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eedfcaf5eccb039c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Velma deGrey.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tapestr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "636b540ca9200de1",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods & Deities/Lesser Idols/Archivist.md"
+                "file": "Sessions/Session 19.md"
               }
             }
           },
@@ -200,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods & Deities/Lesser Idols/Archivist.md",
+                "file": "Sessions/Session 19.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -217,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods & Deities/Lesser Idols/Archivist.md",
+                "file": "Sessions/Session 19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Gods & Deities/Lesser Idols/Archivist.md",
+                "file": "Sessions/Session 19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,7 +276,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.1078421461876941,
+                  "scale": 0.15119284461461743,
                   "close": true
                 }
               }
@@ -300,45 +301,45 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "3fc86edaccd7506a",
+  "active": "37f75626c9796e7d",
   "lastOpenFiles": [
-    "Sessions/Session 16.md",
-    "vesh.md",
-    "Sessions/Session 15.md",
+    "Fort shaker.md",
     "Thoughts & Threads/Theory Board.canvas",
-    "Sessions/Session 14.md",
-    "Sessions/Session 13.md",
+    "Assets/map of the east beacon.jpg",
+    "Sessions/Session 19.md",
+    "Sessions/Session 20.md",
+    "Sessions/Session 12.md",
+    "Places/Mountains/Winters Refuge.md",
+    "Mars Bestiary/Glossary/World Information/Necro-shifting.md",
+    "Sessions/Session 18.md",
+    "Places/Forests/Themar Wilds.md",
+    "Mars Bestiary/Glossary/Flora/Blue Magic Flower.md",
+    "Mars Bestiary/Glossary/Flora/Red Magic Flower.md",
+    "rusted hooks.md",
+    "Velma deGrey.md",
+    "Olotoris.md",
     "map of the basement.md",
+    "People/Suka Orin.md",
+    "Sessions/Session 13.md",
+    "Sessions/Session 17.md",
+    "Vanya.md",
+    "Assets/Wanted_Poster.pdf",
+    "Jaonas.md",
+    "Gold Maldir.md",
+    "Maps & Documents/Handler Support Letter.md",
+    "Maps & Documents/key contact for the handler.md",
+    "Maps & Documents/leger of shipments.md",
+    "Maps & Documents/Letter From Sora.md",
+    "Maps & Documents/map with handwritten notes.md",
     "Assets/Pasted image 20240327003058.png",
     "Assets/Pasted image 20240326233911.png",
-    "Wardens Harbor.md",
-    "Maps & Documents/Letter From Sora.md",
-    "Places/Shops & Taverns/Grasping Vines.md",
-    "Sessions/Session 12.md",
-    "Tarum.md",
-    "Sessions/Session 11.md",
-    "Gold Maldir.md",
-    "People/The Party/Yuli.md",
-    "Sessions/Sessions.md",
-    "Sessions/Session 0.5.md",
-    "Mars Bestiary/Glossary/World Information/Nightmare Fog.md",
-    "People/Allies/Cliffton DeBolbec.md",
-    "Templates/sessionTemplate.md",
-    "Templates/Flora Template.md",
-    "Sessions/Session 10.md",
-    "Sessions/Session 9.md",
-    "Sessions/Session 8.md",
-    "Sessions/Session 7.md",
-    "Sessions/Session 6.md",
     "Mars Bestiary/Glossary/World Information",
     "Assets/My_Dearest_Yuli.pdf",
-    "Assets/map of the east beacon.jpg",
     "Assets/image.png",
     "Assets/Northwest_Themar_Wilds 1.jpg",
     "Assets/Northwest_Themar_Wilds.jpg",
     "Assets/Aqueduct_Base.jpg",
     "Assets/Themar_Wilds_Bandits 1.webp",
-    "Assets/Wanted_Poster.pdf",
     "Assets/Pasted image 20231216001756.png",
     "Assets/Pasted image 20231216005131.png",
     "Loot & Items",

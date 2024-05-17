@@ -1,0 +1,1 @@
+he is from [[Wintercall]] and he is the vendor in [[Esa Themar]] he is called fort shaker because he was able to use magic to shake a fort of goblins at [[cliff docks]] 

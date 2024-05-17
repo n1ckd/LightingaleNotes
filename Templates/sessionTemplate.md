@@ -9,10 +9,6 @@ world date:
 ---
 
 # Session Title  
-Locations :
-Session Date :
-World Date :
-
 -------
 ## Session Summary
 ### Encounters of Note
