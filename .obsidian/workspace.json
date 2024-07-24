@@ -8,67 +8,89 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3fc86edaccd7506a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Mountains/Winters Refuge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37f75626c9796e7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ef26022c3b77769",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fort shaker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37c3e3998e5c754b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rusted hooks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eedfcaf5eccb039c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Velma deGrey.md",
+                "file": "Sessions/Session 13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae13baa25a693672",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mars Bestiary/Glossary/Glossary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "beba557b47766f52",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/map of the east beacon.jpg"
+              }
+            }
+          },
+          {
+            "id": "0d1a08dcf6ee2731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff9fd75b40709b58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32ce4e6a116860b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Holiday's & Events/World Calendar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5dffcce27471b5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 12.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -97,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tapestr",
+                "query": "winter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "636b540ca9200de1",
@@ -163,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 19.md"
+                "file": "Sessions/Session 21.md"
               }
             }
           },
@@ -201,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 19.md",
+                "file": "Sessions/Session 21.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -218,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 19.md",
+                "file": "Sessions/Session 21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +274,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sessions/Session 19.md",
+                "file": "Sessions/Session 21.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -286,7 +307,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,40 +323,41 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "37f75626c9796e7d",
+  "active": "a93603caa5c39435",
   "lastOpenFiles": [
-    "Fort shaker.md",
-    "Thoughts & Threads/Theory Board.canvas",
-    "Assets/map of the east beacon.jpg",
-    "Sessions/Session 19.md",
     "Sessions/Session 20.md",
+    "Sessions/Session 21.md",
+    "Rine galbolg.md",
+    "Holiday's & Events/World Calendar.md",
+    "Kundek.md",
     "Sessions/Session 12.md",
-    "Places/Mountains/Winters Refuge.md",
-    "Mars Bestiary/Glossary/World Information/Necro-shifting.md",
+    "Meara Voltemand.md",
+    "Sessions/Session 19.md",
     "Sessions/Session 18.md",
-    "Places/Forests/Themar Wilds.md",
-    "Mars Bestiary/Glossary/Flora/Blue Magic Flower.md",
-    "Mars Bestiary/Glossary/Flora/Red Magic Flower.md",
-    "rusted hooks.md",
-    "Velma deGrey.md",
-    "Olotoris.md",
-    "map of the basement.md",
-    "People/Suka Orin.md",
+    "Assets/map of the east beacon.jpg",
+    "Mars Bestiary/Glossary/Glossary.md",
     "Sessions/Session 13.md",
-    "Sessions/Session 17.md",
-    "Vanya.md",
-    "Assets/Wanted_Poster.pdf",
-    "Jaonas.md",
-    "Gold Maldir.md",
-    "Maps & Documents/Handler Support Letter.md",
-    "Maps & Documents/key contact for the handler.md",
-    "Maps & Documents/leger of shipments.md",
+    "Loot & Items/Cartographer Tools.md",
+    "Places/The Cleve.md",
+    "Gem.md",
     "Maps & Documents/Letter From Sora.md",
-    "Maps & Documents/map with handwritten notes.md",
+    "Assets/My_Dearest_Yuli.pdf",
+    "Thoughts & Threads/Theory Board.canvas",
+    "Sessions/Session 11.md",
+    "Mars Bestiary/Glossary/World Information/Nightmare Fog.md",
+    "People/The Party/Yuli.md",
+    "Vanya.md",
+    "Factions/The Elven Council.md",
+    "Sessions/Session 14.md",
+    "Sessions/Session 9.md",
+    "People/Allies/Benedict Cleabes.md",
+    "Sessions/Session 10.md",
+    "Sessions/Session 8.md",
+    "Sessions/Session 7.md",
+    "Assets/Wanted_Poster.pdf",
     "Assets/Pasted image 20240327003058.png",
     "Assets/Pasted image 20240326233911.png",
     "Mars Bestiary/Glossary/World Information",
-    "Assets/My_Dearest_Yuli.pdf",
     "Assets/image.png",
     "Assets/Northwest_Themar_Wilds 1.jpg",
     "Assets/Northwest_Themar_Wilds.jpg",

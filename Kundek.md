@@ -1,0 +1,1 @@
+a very widespread and vast group of vampires similar to the mongols, they assimilate those they conquer and they are not culling or trying to force an identity on their group.

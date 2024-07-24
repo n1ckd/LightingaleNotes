@@ -1,1 +1,1 @@
-Her family is from [[Wardens Harbor]] a area north of [[Xivine]] in the west beacon, she si 
+Her family is from [[Wardens Harbor]] a area north of [[Xivine]] in the west beacon, she runs [[Rusted Hooks]] in [[Esa Themar]]. She is a 30 year old female human with long braided hair and brown eyes with smooth pinkish red skin she is 4ft 9in and is a little chubby - her face is very squared and she is missing her right arm, where her arm ends she has a hook that she is writing in with her remaining arm.

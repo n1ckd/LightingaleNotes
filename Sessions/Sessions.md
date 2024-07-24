@@ -20,5 +20,6 @@
 - [[Session 18]]
 - [[Session 19]]
 - [[Session 20]]
+- [[Session 21]]
 
 %% End Waypoint %%

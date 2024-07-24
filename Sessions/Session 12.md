@@ -72,7 +72,7 @@ the note says that thoms and thoms company can help in any way that Cleabes need
 wintercall studying the necromantic properties of winters refuge
 master of divination in Zul planned trip to the infected wood in the cleave 
 capable of raising the ancient towers but doesn't give the location of them.
-Kyris is the master of divination and ryne galbog is the master of necromancy 
+Kyris is the master of divination and [[Rine galbolg]]is the master of necromancy 
 what is [[The Cleave]]?
 - cleabes explaines the cleave is a catastrophic event that struck the beacons /lightingale a couple hundred years ago there was a mass event that he doesn't know all the details of because its generations back, he does know zul and xivine used to be twin cities used to be sister cities right next to one another and at some point the river tears was in between them and the people in each city could no longer talk to one another - when looking to the opposite city they would only see woods on the other side of the river tears. Over the course of the hundreds of years they were eventually able to reconnect vocal communication and within the last 50 years they were able to reconnect the only teleporter between the two cities to cross the cleave and the cleave is a unmapped and unknown formation of land that formed overnight and when people have attempted to explore or cross it they do not return - they have only been able to enter 'infected' areas that have spread in areas around the cleave
 - what are the infected woods infected with - there was a group of elves that used to live where the infected woods are and not many of the survived and they fled to create a city called new sathas - the old one (sathas) being 'consumed' by the infected wood. 

@@ -1,1 +1,1 @@
-[[Velma deGrey]]'s 
+[[Velma deGrey]]'s storefront is [[Esa Themar]] it is a three story warehouse building that has been turned into a lounge.

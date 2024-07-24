@@ -1,0 +1,1 @@
+[[Thom]]'s Mother acquires collects and sells magical artifacts or antiquities. 

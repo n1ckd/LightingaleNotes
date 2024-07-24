@@ -19,7 +19,7 @@ world date: 18th of Arvandor - 19th of Arvandor
 - we find a [[key contact for the handler]] note.
 ### Important World Information 
 - The water in the underground river was salt water and flowing to a loud mechanical noise we heard on one side of the cavern.
-- Scaletail seemed to have a religous reason for having the power to heal himself.
+- Scaletail seemed to have a religious reason for having the power to heal himself.
 - Mars may have connections to the talking grove and the [[Caged Duergars]] recognized him.
 - Mars found a lucky salt crystal and attached it to his necklace of ears. 
 - There is a [[leger of shipments]] found among the bandits things.
@@ -37,7 +37,7 @@ Yuli finds a [[leger of shipments]] and 80gp, a sheet with a [[key contact for t
 Mars investigates the crystals in the area and they seem to be natural formations form the salt water in the cavern.
 Yuli finds a [[Voltemand Wanted Poster]] for a person belonging to the [[Voltemand Family]] in the bandit tents, basic fishing equipment, 1000cp and 1800sp, and a bottle of holy water
 
-As the duergar round the corner to see mars they become panicked and in undercommon say "the talking grove i've seen him before at the talking grove" Ari tries to have clay talk to them and as she mentions the [[Talking Grove]].
+As the duergar round the corner to see mars they become panicked and in under common say "the talking grove i've seen him before at the talking grove" Ari tries to have clay talk to them and as she mentions the [[Talking Grove]].
 
 mars goes over and plucks a crystal out of the pile he investigated before believing it to be his lucky crystal - he then attaches it to his necklace of ears. 
 
